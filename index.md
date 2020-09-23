@@ -1,8 +1,6 @@
 > "Nothing boots as fast as pen and paper."  
 > Sir Norman Robert Foster.
 
-**Your Mail Project**.
-
 You will receive a package of postcards. We expect you to art it up.
 
 Oh! Yes, with anything you want. It's your art work.
