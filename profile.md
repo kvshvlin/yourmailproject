@@ -1,0 +1,14 @@
+> "Your twenties are always an apprenticeship, but you don't always know what for."  
+> Jan Houtema.
+
+**Profile**.
+
+Kushal Dhananjay Samant is an Architect, based in India. In 2006, he started this journey as a side-hustle by selling stationery. In 2009, he started designing competition entries with other architects based at Seattle, CDMX, Buenos Aires, Maastricht, Torino, Kaapstad, Tampere, Mumbai, Panjim, Bangalore, Manila, and Sydney.
+
+In 2012, he created his first brochure, magazine (Avalanche Annual Fest Magazine), and prospectus for his Alma Mater, KLS GIT, Belgaum. In 2013, he graduated with a distinction in Bachelors of Architecture from Visvesvaraya Technological University. Since 2014, he has worked with brands like Thomas Albert Music, The Hive, The Black Canvas, SoundCloud, Scootsy, PhiFilms, OpenDesk, Maker’s Asylum, Ketto, funKtion design, EDStudio Architects, de.Sign Architecture Urban Design, Cinemamu, Airbnb, Adidas, &c.
+
+In 2015, he started the WikiHouse/BOM chapter of <a href="https://www.wikihouse.cc" target="_blank">The WikiHouse Project</a> in Bombay. In 2016, <a href="http://www.mao.si" target="_blank">Muzej Za Arhitekturo In Oblikovanje</a> and <a href="https://www.futurearchitectureplatform.org/projects/8e8af477-4aea-431b-a69f-74cd05862eac" target="_blank">Future Architecture Platform</a> published his work. He takes pride in stopping a country from deporting a friend, back in 2017. Later that year, he became an <a href="https://www.airbnb.co.in/users/show/21563871" target="_blank">Airbnb Superhost</a>, a top Medium writer, and The Economic Times of India cited his views on Stand-Up Comedy culture.
+
+In 2018, he made furniture by OpenDesk, and sold these products on Bumble, Hinge, and Tinder. In 2019, he proofread research papers at SVKM's NMIMS, Mumbai (NMIMS School of Branding & Advertising). Later that year, he taught Architectural Design, Graphics & Drawing Representation, and AutoDesk products as a visiting faculty at Dr. D.Y. Patil College of Architecture, Navi Mumbai. In 2020, one of his repositories was selected for the Arctic Code Vault of the <a href="https://archiveprogram.github.com" target="_blank">GitHub Archive Program</a> - <a href="https://youtu.be/fzI9FNjXQ0o" target="_blank">Watch</a>.
+
+So far, he has worked in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, and web design.
