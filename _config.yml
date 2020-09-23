@@ -1,5 +1,5 @@
 author: "Kushal Samant"
-description: "Official Site / Architect"
+description: "Official Site / Visual Arts"
 email: kushaldsamant@gmail.com
 google_analytics: UA-105795582-1
 keywords: "Architecture, CSS, HTML, Javascript, People, Places, Visual Art, Web"
@@ -8,7 +8,7 @@ minimal:
   date_format: "%b %-d, %Y"
   social_links: 
     github: kvshvlin
-    instagram: kvshvlin
+    instagram: yourmailproject
     linkedin: kvshvlin
     youtube_channel: https://www.youtube.com/channel/UCQCznCqUhALucLSk6N8ROPA
 plugins: 
@@ -16,4 +16,4 @@ plugins:
   - jekyll-seo-tag
 show_downloads: true
 theme: jekyll-theme-minimal
-title: Kushal Samant
+title: Your Mail Project
