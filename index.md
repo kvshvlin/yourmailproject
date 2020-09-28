@@ -8,9 +8,9 @@ We are an art collective. The intention here is to get artists to illustrate on 
 If you are looking to illustrate, then the first step of this process is to "Join as an artist" using the link above. The form will ask you for your postal address and phone number. We will use this to send you a pack of 10 blank postcards.
 
 The second step is all about you unleashing your creativity with, Oh! Yes, with anything you want. We want you to art these postcards up. Do no hesitate to do doodle, draw, paint, sketch, or whatever you think of as art, including physical changes such as burning, cutting, et cetera.  
-It's your art work.
+Remember, we will respect your work as 'It's your art work'.
 
-The third step is collection. Send us your finished art pieces. We collect art from various artists, find customers, handle everyone's complaints, handle return orders [haven't had any yet]() and shipping, et cetera.
+The third step is collection. Send us your finished art pieces. We collect art from various artists, find customers, handle everyone's complaints, handle return orders [[haven't had any yet]()] and shipping, et cetera.
 
 The fourth step is to share profits equally with the artist, and smoothen the entire process as we go. We imagine this practice will help contribute in its own small way to stabilize the country's economy through mass-scaled art.
 
