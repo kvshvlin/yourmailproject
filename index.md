@@ -9,7 +9,7 @@ If you are looking to illustrate, then the first step of this process is to "Joi
 
 The second step is all about you unleashing your creativity with, Oh! Yes, with anything you want. We want you to art these postcards up. Do no hesitate to do doodle, draw, paint, sketch, or whatever you think of as art, including physical changes such as burning, cutting, et cetera.
 
-Remember, we believe, respect, think of, treat your work as 'It's your art work'.
+Remember, we believe, handle, respect, think of, and treat your work as 'It's your art work'.
 
 The third step is collection. Send us your finished art pieces. We collect art from various artists, find customers, handle everyone's complaints, handle return orders, and shipping, et cetera so that [[you can focus fully on being a creative]()], just that.
 
