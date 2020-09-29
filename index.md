@@ -11,7 +11,7 @@ The second step is all about you unleashing your creativity with, Oh! Yes, with 
 
 Remember, we believe, handle, respect, think of, and treat your work as 'It's your art work'.
 
-The third step is collection. Send us your finished art pieces. We collect art from various artists, find customers, handle everyone's complaints, handle return orders, and shipping, et cetera so that [[you can focus fully on being a creative]()], just that.
+The third step is collection. Send us your finished art pieces. We collect art from various artists, find customers, handle everyone's complaints, handle return orders, and shipping, et cetera so that [ [you can focus fully on being a creative]() ], just that.
 
 The fourth step is to share profits equally with the artist, and smoothen the entire process as we go. We imagine this practice will help contribute in its own small way to stabilize the country's economy through mass-scaled art.
 
