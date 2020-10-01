@@ -1,7 +1,7 @@
 > "Nothing boots as fast as pen and paper."  
 > Sir Norman Robert Foster.
 
-We are an art collective. The intention here is to get artists to illustrate on postcards, and sell these postcards as a product to various marketplaces. The profits will be shared equally with the artist. If you are looking to buy, then please see creative illustrations <a href="https://www.instagram.com/yourmailproject" target="_blank">here</a>.
+We are an art collective. The intention here is to get artists to illustrate on postcards, and sell these postcards as a product to various marketplaces. The profits will be shared equally with the artist. If you are looking to buy, then please see creative illustrations on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>.
 
 ***
 
