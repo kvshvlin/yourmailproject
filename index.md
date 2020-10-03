@@ -7,7 +7,7 @@ We are an art collective. The intention here is to get artists to illustrate on 
 
 If you are looking to illustrate, then the first step of this process is to '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join as an artist</a>'. The form will ask you for your postal address and phone number. We will use this to send you a pack of 10 blank postcards.
 
-The second step is all about you unleashing your creativity with, Oh! Yes, with anything you want. We want you to art these postcards up. Do no hesitate to doodle, draw, paint, sketch, or whatever you think of as art.
+The second step is all about you unleashing your creativity with, Oh! Yes, with anything you want. We want you to art these postcards up. Do not hesitate to doodle, draw, paint, sketch, or whatever you think of as art.
 
 Remember, we believe, handle, respect, think of, and treat your work as 'It's your art work'.
 
