@@ -1,13 +1,13 @@
 **About**.
 
-We are an art collective. We get artists to illustrate postcards. We sell these postcards as a product. We share profits with the artist.
+We are an art collective. We ask artists to illustrate postcards. We sell these postcards as a product. We share profits with the artist.
 
 > "The principles of true art is not to portray, but to evoke."  
 > Jerzy Kosinski.
 
 **For art collectors**.
 
-If you are looking to buy creative illustrations, then please <a href="https://yourmailproject.stores.instamojo.com" target="_blank">Shop</a>.  
+If you want to buy creative illustrations, then please <a href="https://yourmailproject.stores.instamojo.com" target="_blank">Shop</a>.  
 You can follow us on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a> / <a href="https://in.pinterest.com/yourmailproject" target="_blank">Pinterest</a>.
 
 > "No one needs anything. No one needs a reason to buy - they buy because they want to."  
@@ -15,7 +15,7 @@ You can follow us on <a href="https://www.instagram.com/yourmailproject" target=
 
 **For artists**.
 
-If you are looking to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an artist</a>'. This link opens a form that will ask you for your postal address and phone number. We will use this to send you a pack of 10 blank postcards.
+If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an artist</a>'. This link opens a form that will ask you for your postal address and phone number. We will use this to send you a pack of 10 blank postcards.
 
 Once you receive this package, unleash the creativity within. Oh! Yes, with anything you want. We want you to art these postcards up. Do not hesitate to doodle, draw, paint, sketch, or whatever you think of, as art.
 
