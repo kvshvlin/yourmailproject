@@ -1,9 +1,11 @@
-> "Nothing boots as fast as pen and paper."  
-> Sir Norman Robert Foster.
+**For art collectors**.
 
 We are an art collective. The intention here is to get artists to illustrate on postcards, and sell these postcards as a product to various marketplaces. The profits will be shared equally with the artist. If you are looking to buy, then please see creative illustrations on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a> / <a href="https://in.pinterest.com/yourmailproject" target="_blank">Pinterest</a>.
 
-***
+> "No one needs anything. No one needs a reason to buy - they buy because they want to."  
+> Meir Ezra.
+
+**For artists**.
 
 If you are looking to illustrate, then the first step of this process is to '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join as an artist</a>'. The form will ask you for your postal address and phone number. We will use this to send you a pack of 10 blank postcards.
 
@@ -19,3 +21,6 @@ We hope you will love to be a part of our community.
 
 If there’s something you don’t see here that you’d like to know, then email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
+
+> "Nothing boots as fast as pen and paper."  
+> Sir Norman Robert Foster.
