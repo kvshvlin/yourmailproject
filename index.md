@@ -1,6 +1,14 @@
+**About**.
+
+We are an art collective. The intention here is to get artists to illustrate on postcards, and sell these postcards as a product to various marketplaces. The profits will be shared equally with the artist.
+
+> "The principles of true art is not to portray, but to evoke."  
+> Jerzy Kosinski.
+
 **For art collectors**.
 
-We are an art collective. The intention here is to get artists to illustrate on postcards, and sell these postcards as a product to various marketplaces. The profits will be shared equally with the artist. If you are looking to buy, then please see creative illustrations on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a> / <a href="https://in.pinterest.com/yourmailproject" target="_blank">Pinterest</a>.
+If you are looking to buy, then please <a href="https://yourmailproject.stores.instamojo.com" target="_blank">Shop</a>.  
+You can see creative illustrations on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a> / <a href="https://in.pinterest.com/yourmailproject" target="_blank">Pinterest</a>.
 
 > "No one needs anything. No one needs a reason to buy - they buy because they want to."  
 > Meir Ezra.
