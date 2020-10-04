@@ -1,6 +1,6 @@
 **About**.
 
-We are an art collective. We intend to get artists to illustrate postcards. Then sell these postcards as a product to various marketplaces. Then share profits with the artist.
+We are an art collective. We get artists to illustrate postcards. We sell these postcards as a product. We share profits with the artist.
 
 > "The principles of true art is not to portray, but to evoke."  
 > Jerzy Kosinski.
