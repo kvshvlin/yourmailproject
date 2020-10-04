@@ -15,7 +15,7 @@ You can follow us on <a href="https://www.instagram.com/yourmailproject" target=
 
 **For artists**.
 
-If you are looking to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join as an artist</a>'. The form will ask you for your postal address and phone number. We will use this to send you a pack of 10 blank postcards.
+If you are looking to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an artist</a>'. The form will ask you for your postal address and phone number. We will use this to send you a pack of 10 blank postcards.
 
 Once you receive this package, unleash the creativity within. Oh! Yes, with anything you want. We want you to art these postcards up. Do not hesitate to doodle, draw, paint, sketch, or whatever you think of, as art.
 
