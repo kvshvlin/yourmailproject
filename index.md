@@ -15,7 +15,7 @@ You can follow us on <a href="https://www.instagram.com/yourmailproject" target=
 
 **For artists**.
 
-If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an artist</a>'. This link opens a form that will ask you for your postal address and phone number. We will use this to send you a pack of 10 blank postcards.
+If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'. This link opens a form that will ask you for your postal address and phone number. We will use this to send you a pack of 10 blank postcards.
 
 Once you receive this package, unleash the creativity within. Oh! Yes, with anything you want. We want you to art these postcards up. Do not hesitate to doodle, draw, paint, sketch, or whatever you think of, as art.
 
@@ -23,7 +23,7 @@ Remember, we handle, respect, think of, and treat your work as 'It's your artwor
 
 Once you finish your work, send it to us. We will collect your artwork. We will find a customer for it. We will handle everyone's complaints, return orders, and shipping, et cetera. So that [ [you can focus on being a creator]() ].
 
-Once your artwork sells, we will share the profits with you. We smoothen out the process as we go. We imagine this process will stabilize our country's economy through mass&nbsp;-&nbsp;scaled&nbsp;art.
+Once your artwork sells, we will share the profits with you. We smoothen out the process as we go. We imagine this process will stabilize our country's economy through mass-scaled&nbsp;art.
 
 We hope you love to be a part of our community.
 
