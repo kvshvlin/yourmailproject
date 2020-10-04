@@ -23,7 +23,7 @@ Remember, we believe, handle, respect, think of, and treat your work as 'It's yo
 
 The third step is collection. Send us your finished art pieces. We collect art from various artists, find customers, handle everyone's complaints, return orders, and shipping, et cetera. So that [ [you can focus fully on being a creative]() ], just that.
 
-The fourth step is to share profits equally with the artist, and smoothen the entire process as we go. We imagine this practice will help contribute in its own small way to stabilize the country's economy through mass-scaled art.
+The fourth step is to share profits equally with the artist. We smoothen out the process as we go. We imagine this practice will help contribute in its own small way to stabilize the country's economy through mass-scaled art.
 
 We hope you will love to be a part of our community.
 
