@@ -7,8 +7,8 @@ We are an art collective. We ask artists to illustrate postcards. We sell these 
 
 **For art collectors**.
 
-If you want to buy creative illustrations, then please <a href="https://yourmailproject.stores.instamojo.com" target="_blank">Shop</a>.  
-You can follow us on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a> / <a href="https://in.pinterest.com/yourmailproject" target="_blank">Pinterest</a>.
+If you want to buy creative illustrations, then please '<a href="https://yourmailproject.stores.instamojo.com" target="_blank">Shop</a>'.  
+You can '<a href="https://in.pinterest.com/yourmailproject" target="_blank">Browse artists</a>' on Pinterest / '<a href="https://www.instagram.com/yourmailproject" target="_blank">Follow us</a>' on Instagram.
 
 > "No one needs anything. No one needs a reason to buy - they buy because they want to."  
 > Meir Ezra.
@@ -21,7 +21,7 @@ Once you receive this package, unleash the creativity within. Oh! Yes, with anyt
 
 Remember, we handle, respect, think of, and treat your work as 'It's your artwork'.
 
-Once you finish your work, send it to us. We will collect your artwork. We will find a customer for it. We will handle everyone's complaints, return orders, and shipping, et cetera. So that [ [you can focus on being a creator]() ].
+Once you finish your work, send it to us. We will collect your artwork. We will find a customer for it. We will handle everyone's complaints, return orders, and shipping, et cetera. So that '[You can focus on being a creator]()'.
 
 Once your artwork sells, we will share the profits with you. We smoothen out the process as we go. We imagine this process will stabilize our country's economy through mass-scaled&nbsp;art.
 
