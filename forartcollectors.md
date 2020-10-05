@@ -1,4 +1,4 @@
-**For Art Collectors**.
+**For Art Collectors** / [_For Artists_](https://kvshvlin.github.io/yourmailproject/forartists.html)
 
 If you want to buy creative illustrations, then please '<a href="https://yourmailproject.stores.instamojo.com" target="_blank">Shop</a>'.  
 You can '<a href="https://in.pinterest.com/yourmailproject" target="_blank">Browse artists</a>' on Pinterest.  
