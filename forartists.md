@@ -6,9 +6,9 @@ Once you receive this package, unleash the creativity within. Oh! Yes, with anyt
 
 Remember, we handle, respect, think of, and treat your work as 'It's your artwork'.
 
-Once you finish your work, send it to us. We will collect your artwork. We will find a customer for it. We will handle everyone's complaints, return orders, and shipping, et cetera. So that you can focus on being a creator.
+Once you finish your work, send it to us. We will collect your artwork. We will find a customer for it. We will handle everyone's complaints, return orders, and shipping, et cetera.
 
-Once your artwork sells, we will share the profits with you. We smoothen out the process as we go. We imagine this process will stabilize our country's economy through mass&nbsp;-&nbsp;scaled&nbsp;art.
+Once your artwork sells, we will share the profits with you. We smoothen out the process as we go. So that you can focus on being a creator. We imagine this process will stabilize our country's economy through mass&nbsp;-&nbsp;scaled&nbsp;art.
 
 We hope you love to be a part of our community.
 
