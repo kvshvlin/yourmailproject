@@ -1,4 +1,4 @@
-**For Artists**.
+[_For Art Collectors_](https://kvshvlin.github.io/yourmailproject/forartcollectors.html) / **For Artists**.
 
 If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'. This link opens a form that will ask you for your postal address and phone number. We will use this information to send you a package of 10 blank postcards.
 
