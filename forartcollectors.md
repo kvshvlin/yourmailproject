@@ -1,5 +1,3 @@
-
-
 **For Art Collectors**.
 
 If you want to buy creative illustrations, then please '<a href="https://yourmailproject.stores.instamojo.com" target="_blank">Shop</a>'.  
