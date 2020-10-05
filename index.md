@@ -23,7 +23,7 @@ Remember, we handle, respect, think of, and treat your work as 'It's your artwor
 
 Once you finish your work, send it to us. We will collect your artwork. We will find a customer for it. We will handle everyone's complaints, return orders, and shipping, et cetera. So that '[You can focus on being a creator]()'.
 
-Once your artwork sells, we will share the profits with you. We smoothen out the process as we go. We imagine this process will stabilize our country's economy through mass-scaled&nbsp;art.
+Once your artwork sells, we will share the profits with you. We smoothen out the process as we go. We imagine this process will stabilize our country's economy through mass&nbsp;-&nbsp;scaled&nbsp;art.
 
 We hope you love to be a part of our community.
 
