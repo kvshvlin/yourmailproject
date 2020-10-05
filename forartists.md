@@ -4,7 +4,7 @@ If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/t
 
 Once you receive this package, unleash the creativity within. Oh! Yes, with anything you want. We want you to art these postcards up. Do not hesitate to doodle, draw, paint, sketch, or whatever you think of, as art.
 
-Remember, we handle, respect, think of, and treat your work as 'It's your artwork'.
+Remember, we handle, respect, think of, and treat your work in a way that 'All copyrights are reserved by the original author of the artwork'.
 
 Once you finish your work, send it to us. We will collect your artwork. We will find a customer for it. We will handle everyone's complaints, return orders, and shipping, et cetera.
 
