@@ -5,7 +5,7 @@ We are an art collective. We ask artists to illustrate postcards. We sell these 
 > "The principles of true art is not to portray, but to evoke."  
 > Jerzy Kosinski.
 
-**For art collectors**.
+**For Art Collectors**.
 
 If you want to buy creative illustrations, then please '<a href="https://yourmailproject.stores.instamojo.com" target="_blank">Shop</a>'.  
 You can '<a href="https://in.pinterest.com/yourmailproject" target="_blank">Browse artists</a>' on Pinterest and '<a href="https://www.instagram.com/yourmailproject" target="_blank">Follow us</a>' on Instagram.
@@ -13,7 +13,7 @@ You can '<a href="https://in.pinterest.com/yourmailproject" target="_blank">Brow
 > "No one needs anything. No one needs a reason to buy - they buy because they want to."  
 > Meir Ezra.
 
-**For artists**.
+**For Artists**.
 
 If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'. This link opens a form that will ask you for your postal address and phone number. We will use this information to send you a package of 10 blank postcards.
 
