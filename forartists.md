@@ -2,7 +2,7 @@
 
 If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'. This link opens a form that will ask you for your postal address and phone number. We will use this information to send you a package of 10 blank postcards.
 
-Once you receive this package, unleash the creativity within. Oh! Yes, with anything you want. We want you to art these postcards up. Do not hesitate to doodle, draw, paint, sketch, or whatever you think of, as art.
+Once you receive this package, you can unleash the creator within you. We want you to art these postcards up. Oh! Yes, with anything you want. Do not hesitate to doodle, draw, paint, sketch, or whatever you think of, as art.
 
 Remember, we handle, respect, think of, and treat your work in a way that 'All copyrights are reserved by the original author of the artwork'.
 
