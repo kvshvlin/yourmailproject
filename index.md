@@ -1,6 +1,9 @@
 **About**.
 
-We are an art collective. We ask artists to illustrate postcards. We sell these postcards as a product. We share profits with the artist.
+We are an art collective.  
+We ask artists to illustrate postcards.  
+We sell these postcards as a product.  
+We share profits with the artist.
 
 You can see more on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a> and <a href="https://in.pinterest.com/yourmailproject" target="_blank">Pinterest</a>.
 
