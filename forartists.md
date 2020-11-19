@@ -8,6 +8,8 @@ Remember, we handle, respect, think of, and treat your work so that 'All copyrig
 
 Once you finish your work, send it to us. We will collect your artwork. We will find a customer for it. We will handle everyone's complaints, return orders, and shipping, et cetera. So that you can focus on being a creator.
 
+Please note that we do not guarantee that your artwork will sell. We will list your artwork on our store for as long as you wish. If you want us to return your artwork to you, we can return it to you only if it is not sold.
+
 Once your artwork sells, we will share the profits with you. We smoothen out the process as we go. We imagine this process will stabilize our country's economy through mass&nbsp;-&nbsp;scaled&nbsp;art.
 
 We hope you love to be a part of our community.
