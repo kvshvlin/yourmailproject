@@ -19,7 +19,7 @@ When we say unique, we mean that,
 - None of the other patrons, will ever get, the postcards you will receive.
 - You will get original hand drawn postcards.
 - You can rest assured that the ones you hold are unique in this universe.
-- Join now and get an unique Postcard every month.
+- Subscribe now and get an unique Postcard every month.
 
 <div class="roadmap-spacer-1"></div>
 
