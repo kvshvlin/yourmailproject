@@ -35,7 +35,7 @@ When we say unique, we mean that,
 > "Drawing is the only thing I've found in which I can lose myself completely. I love it. It started as something that relaxed me, but now it's a struggle because I'm pushing myself. The day-to-day sketching is fraught."  
 > Peter Capaldi.
 
-**Join as an artist**.
+**Join us as an artist**.
 
 If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'. This link opens a form that will ask you to enter your postal address and phone number. We will use this information to send you a package of 10 blank postcards.
 
@@ -57,7 +57,7 @@ If there’s something you don’t see here that you’d like to know, then emai
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a><br>
+<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an artist</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
