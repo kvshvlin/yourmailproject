@@ -3,19 +3,9 @@
 We are an art collective.  
 We ask artists to illustrate postcards.  
 We sell these postcards as a product.  
-We share profits with the artist.
-
-> "The principles of true art is not to portray, but to evoke."  
-> Jerzy Kosinski.
-
-**For Art Collectors**.
-
-If you want to buy original illustrations, then please explore our <a href="https://www.gumroad.com/yourmailproject" target="_blank">Shop</a>.
-
+We share profits with the artist.  
+If you want to buy original illustrations, then please explore our <a href="https://www.gumroad.com/yourmailproject" target="_blank">Shop</a>.  
 If you want to get notified about our work in progress, then please follow us on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>.
-
-> "No one needs anything. No one needs a reason to buy - they buy because they want to."  
-> Meir Ezra.
 
 **Subscribe**.
 
@@ -37,7 +27,7 @@ When we say unique, we mean that,
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">Join Now</a><br>
+<a class="btn" href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">Subscribe</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
@@ -45,7 +35,7 @@ When we say unique, we mean that,
 > "Drawing is the only thing I've found in which I can lose myself completely. I love it. It started as something that relaxed me, but now it's a struggle because I'm pushing myself. The day-to-day sketching is fraught."  
 > Peter Capaldi.
 
-**For Artists**.
+**Join as an artist**.
 
 If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'. This link opens a form that will ask you to enter your postal address and phone number. We will use this information to send you a package of 10 blank postcards.
 
@@ -59,10 +49,18 @@ Please note that we do not guarantee that your artwork will sell. We will list y
 
 Once your artwork sells, we will share the profits with you. We smoothen out the process as we go. We imagine this process will stabilize our country's economy through mass&nbsp;-&nbsp;scaled&nbsp;art.
 
-> "Nothing boots as fast as pen and paper."  
-> Sir Norman Robert Foster.
-
 We hope you love to be a part of our community.
 
 If there’s something you don’t see here that you’d like to know, then email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
+
+<div class="roadmap-spacer-1"></div>
+
+<p>
+<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a><br>
+</p>
+
+<div class="roadmap-spacer-2"></div>
+
+> "Nothing boots as fast as pen and paper."  
+> Sir Norman Robert Foster.
