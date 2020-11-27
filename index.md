@@ -15,11 +15,11 @@ You can send these to family and friends via India Post in the same way we post 
 When we say unique, we mean that,
 
 - We make only one of each postcards.
-- We don't make copies of these postcards.
+- - We don't make copies of these postcards.
 - None of the other patrons, will ever get, the postcards you will receive.
-- You will get original hand drawn postcards.
+- - You will get original hand drawn postcards.
 - You can rest assured that the ones you hold are unique in this universe.
-- Subscribe now and get an unique Postcard every month.
+- - Subscribe now and get an unique Postcard every month.
 
 <div class="roadmap-spacer-1"></div>
 
@@ -34,9 +34,9 @@ When we say unique, we mean that,
 
 **Join us as an artist**.
 
-If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'. This link opens a form that will ask you to enter your postal address and phone number. We will use this information to send you a package of 10 blank postcards.
+If you want to illustrate, then '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'. This link opens a form that will ask you to enter your postal address and phone number. We will use this information to send you a package of 11 blank postcards.
 
-Once you receive this package, you can unleash the creator within you. We want you to art these postcards up. Oh! Yes, with anything you want. Do not hesitate to doodle, draw, paint, sketch, or whatever you think of, as art.
+Once you receive this package, you can unleash the creator within you. You can use 1 postcard for testing your materials on it. We want you to art 10 postcards up. Oh! Yes, with anything you want. Do not hesitate to doodle, draw, paint, sketch, or whatever you think of, as art.
 
 Remember, we handle, respect, think of, and treat your work so that 'All copyrights are reserved by the original author of the artwork'.
 
