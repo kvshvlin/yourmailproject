@@ -15,11 +15,11 @@ You can send these to family and friends via India Post in the same way we post 
 When we say unique, we mean that,
 
 - We make only one of each postcards.
-- - We don't make copies of these postcards.
+- We don't make copies of these postcards.
 - None of the other patrons, will ever get, the postcards you will receive.
-- - You will get original hand drawn postcards.
+- You will get original hand drawn postcards.
 - You can rest assured that the ones you hold are unique in this universe.
-- - Subscribe now and get an unique Postcard every month.
+- Subscribe now and get an unique Postcard every month.
 
 <div class="roadmap-spacer-1"></div>
 
