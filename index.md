@@ -2,7 +2,8 @@ From the ink, the colours, to paints, we are the people who fall madly in love w
 
 We are a habit, a meditative process, a peace in testing times. We are the essence of calming our minds and channeling our energies into expressive forms, of brush on the canvas, and pen on paper, and anything that you can think of, in your own world. We are a chance at losing ourselves in creative thought, while creating actual art.
 
-We are here to bring art to the people, and people to your art. A practice with the intentions of creating an opportunity for folks who can create. We keep things simple, thoughtful, and transparent. Something like this:
+We are here to bring art to the people, and people to your art. A practice with the intentions of creating an opportunity for folks who can create. We keep things simple, thoughtful, and transparent.  
+Something like this:
 
 We ship blank postcards to you. You have to illustrate these postcards, and return them to us. We list these illustrated postcards on our Gumroad Shop or ship them to our Patrons. We share profits with you.
 
