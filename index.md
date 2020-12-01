@@ -34,7 +34,7 @@ Subscribe now and get unique Postcards every month. Here's a quote from Peter Ca
 
 **If you want to illustrate: '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'**.
 
-This link opens a form that asks you to enter your postal address and phone number. We will use this information to ship to you a package of 11 blank postcards. This is a thing of wonder.
+This link opens a form that asks you to enter your postal address. Don't you forget to give your phone number too, the postman may feel the need to use it. We use this information to ship to you a package of 11 blank postcards. Read on to figure what to do next.
 
 **Your role as an artist**:
 
