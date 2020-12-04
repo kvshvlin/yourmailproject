@@ -1,12 +1,14 @@
+**About**.
+
 From the ink, the colours, to paints, we are the people who fall madly in love with an orchestra of colours in space. We find magic in every stroke, our hearts beat faster as they evoke, a rising tide of emotions. That there is nothing more peaceful than drawing that picture, that doodle, that painting, that caricature, and more.
 
 We are a habit, a meditative process, a peace in testing times. We are the essence of calming our minds and channeling our energies into expressive forms, of brush on canvas, and pen on paper, or anything that you can think of, in your own world. We are a chance at losing ourselves in creative thought, while creating actual art.
 
 We are a practice with the intentions of creating an opportunity for folks who can create. We keep things simple, thoughtful, and transparent like this:
 
-We ship blank postcards to you. Postcards that you can illustrate upon. Return them to us when you are done, and we will list these illustrated postcards for sale on various platforms.
+We ship blank postcards to you. Postcards that you can illustrate upon. Return them to us when you are done, and we will list these illustrated postcards for sale on various platforms, share profits with you, and grow as a collective.
 
-We share profits with you and grow as a collective. So you can talk about us to your family and friends, or introduce them to <a href="https://www.instagram.com/yourmailproject" target="_blank">this</a> Instagram page, or ask them to make a purchase on <a href="https://www.gumroad.com/yourmailproject" target="_blank">this</a> Gumroad shop, or get them to subscribe to <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">this</a> Patreon account.
+You can talk about us to your family and friends, or introduce them to <a href="https://www.instagram.com/yourmailproject" target="_blank">this</a> Instagram page, or ask them to make a purchase on <a href="https://www.gumroad.com/yourmailproject" target="_blank">this</a> Gumroad shop, or get them to subscribe to <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">this</a> Patreon account.
 
 Our patrons receive unique Postcards every month. These are hand drawn illustrations, not sponsored by India Post, but you can still send these to your family and friends, there is some space left for a message and an address.
 
