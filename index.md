@@ -6,7 +6,7 @@ We are a habit, a meditative process, a peace in testing times. We are the essen
 
 We are a practice with the intentions of creating an opportunity for folks who can create. We keep things simple, thoughtful, and transparent like this:
 
-We ship blank postcards to you. Postcards that you can illustrate upon. Return them to us when you are done, and we will list these illustrated postcards for sale on various platforms, share profits with you, and grow as a collective.
+We ship blank postcards to you. Postcards that you can illustrate upon. Return them to us when you are done, so we can list them for sale on various platforms, grow as a collective by sharing profits with you.
 
 You can talk about us to your family and friends, or introduce them to <a href="https://www.instagram.com/yourmailproject" target="_blank">this</a> Instagram page, or ask them to make a purchase on <a href="https://www.gumroad.com/yourmailproject" target="_blank">this</a> Gumroad shop, or get them to subscribe to <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">this</a> Patreon account.
 
