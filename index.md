@@ -8,7 +8,7 @@ We are a practice with the intentions of creating an opportunity for folks who c
 
 We ship blank postcards to you. Postcards that you can illustrate upon. Return them to us when you are done, so we can list them for sale on various platforms, and grow as a collective by sharing profits with you.
 
-You can talk about us to your family and friends, or introduce them to <a href="https://www.instagram.com/yourmailproject" target="_blank">this</a> Instagram page, or ask them to make a purchase on <a href="https://www.gumroad.com/yourmailproject" target="_blank">this</a> Gumroad shop, or get them to subscribe to <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">this</a> Patreon account.
+You can talk about us to your family and friends, or introduce them to <a href="https://www.instagram.com/yourmailproject" target="_blank">THIS</a> Instagram page, or ask them to make a purchase on <a href="https://www.gumroad.com/yourmailproject" target="_blank">THIS</a> Gumroad shop, or get them to subscribe to <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">THIS</a> Patreon account.
 
 Our patrons receive unique Postcards every month. These are hand drawn illustrations, not sponsored by India Post, but you can still send these to your family and friends, there is some space left for a message and an address.
 
