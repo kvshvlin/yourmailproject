@@ -25,10 +25,7 @@ Ahem! When we say unique, this is what we mean,
 - Every patron gets a different illustrated postcard as different as different can be.
 - Every patron can rest assured that he/she/they hold a postcard that's exclusively made only for them.
 
-Subscribe now and get unique Postcards every month. Here's a quote from Peter Capaldi, that sums up our artistic aspirations quite well.
-
-> "Drawing is the only thing I've found in which I can lose myself completely. I love it. It started as something that relaxed me, but now it's a struggle because I'm pushing myself. The day-to-day sketching is fraught."  
-> Peter Capaldi.
+Subscribe now and get unique Postcards every month.
 
 <div class="roadmap-spacer-1"></div>
 
