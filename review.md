@@ -99,9 +99,9 @@ Payment fees: They cover the cost of processing payments from your patrons, incl
 Platform fees: They cover the cost of Patreon’s membership platform and are a percentage of our successful patron payments.
 
 Payment Amount — Rate per successful payment 
-- $3 or less — 5% + $0.10
-- Over $3 — 2.9% + $0.30
-- Additional 1% for non-US PayPal payments
+> $3 or less — 5% + $0.10
+> Over $3 — 2.9% + $0.30
+> Additional 1% for non-US PayPal payments
 
 - Charges by Your Mail Project.
 
