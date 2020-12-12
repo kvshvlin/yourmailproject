@@ -67,7 +67,7 @@ Please note that we do not guarantee that your artwork will sell, but we do our 
 
 Once your artwork sells, we will pay you as an artist. We are sharing the following information to demystify our business model. We hope that this will help you calculate your selling price.
 
-- The basic cost.
+**The basic cost**.
 
 The package of 11 postcards costs,  
 Rs. 5.5 for the postcards +  
@@ -90,7 +90,7 @@ Making 1 postcards shop ready should approximately cost,
 = Rs. 98.5 / 10  
 = Rs. 9.85.
 
-- Charges by Patreon.
+**Charges by Patreon**.
 
 Patreon charges payment processing fees as follows,
 
@@ -103,20 +103,20 @@ Platform fees: They cover the cost of Patreon’s membership platform and are a 
 > Over $3 — 2.9% + $0.30  
 > Additional 1% for non-US PayPal payments
 
-- Charges by Your Mail Project.
+**Charges by Your Mail Project**.
 
 We keep $1 from each postcard sold to cover our running costs.
 
 **The selling price**.
 
-Be mindful, that you have to use your own materials. This costing excludes the cost of materials used for creating the artwork, the cost of an artist's labour, and an artist's profit margin since they are unknown to us.
+Be mindful, that you have to use your own materials. This costing excludes the cost of materials used for creating the artwork, the cost of an artist's labour, and an artist's profit margin since these values remain unknown to us.
+
+It is recommended that your selling price include the basic cost, cost of materials used, cost of labour, charges by Patreon, charges by Your Mail Project, the artist's profit margin, and any other particulars you deem necessary.
 
 Hence, we request you to recommend your selling price of every postcard to us. If you wish to do so, then email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
 
-It is recommended that your selling price include the basic cost, cost of materials used, cost of labour, charges by Patreon, charges by Your Mail Project, the artist's profit margin, and any other particulars necessary.
-
-- Charges towards shipping.
+**Charges towards shipping**.
 
 We charge shipping extra to customers.
 
