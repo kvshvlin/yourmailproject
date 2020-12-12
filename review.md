@@ -113,7 +113,7 @@ Be mindful, that you have to use your own materials. This costing excludes the c
 
 It is recommended that your selling price include the basic cost, cost of materials used, cost of labour, charges by Patreon, charges by Your Mail Project, the artist's profit margin, and any other particulars you deem necessary.
 
-Hence, we request you to recommend your selling price of every postcard to us. If you wish to do so, then email  
+Hence, we request you to give us a selling price for your artwork/s, via email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
 
 **Charges towards shipping**.
