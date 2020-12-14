@@ -9,9 +9,10 @@ This link opens a form that asks you to enter your postal address. Don't you for
 Once you receive this package, you can go all in! Unleash your creativity.
 
 - Ideally by testing 1 postcard with your materials to see.
-- - - We would love to see you art up 10 postcards in a month, in your own unique way, whatever you may think that means.
+- We would love to see you art up 10 postcards in a month, in your own unique way, whatever you may think that means.
 - And yes! Do with anything you want, feel free to doodle, draw, sketch, or paint, or whatever you think of, as art.
-- **Creating a symbiotic relationship**.
+
+**Creating a symbiotic relationship**.
 
 Remember, we handle, respect, think of, and treat your work so that ‘All copyrights are reserved by the original author of the artwork’ is something we can all agree upon.
 
@@ -22,16 +23,18 @@ If you want to share work in progress images with the collective then use this h
 We have one deadline only.
 
 - We have this because otherwise everyone procrastinates, including us.
-- - - You need to complete the postcards in a month from the day you receive it.
+- You need to complete the postcards in a month from the day you receive it.
 - It would be better if you can complete your submission as soon as possible.
-- **You create, we distribute**.
+
+**You create, we distribute**.
 
 Once you finish your artwork, send it to us. When your part ends, is when our has begun!
 
 - We will collect your artwork, and photograph it.
-- - - We will showcase it on Instagram, also tag you for exposure and publicity.
+- We will showcase it on Instagram, also tag you for exposure and publicity.
 - We handle everyone's complaints, inventory, packaging, return orders, and shipping.
 - So that you can meditate away and lose yourself in spellbound creativity.
+
 **Here's some fine print in bold text**.
 
 Please note that we do not guarantee that your artwork will sell, but we do our best to give it exposure instead. You control if it’s still available for sale, remember ‘All copyrights are reserved by the original author of the artwork’! But there’s a catch here, albeit not a serious one yet, we can only return your artwork to you if it’s not sold.
