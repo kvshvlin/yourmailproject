@@ -53,11 +53,18 @@ If you want to share work in progress images with the collective then use this h
 
 **Dead-line**.
 
-We have one deadline only. We have this because otherwise everyone procrastinates, including us. You need to complete the postcards in a month from the day you receive it. It would be better if you can complete your submission as soon as possible.
+- We have one deadline only.  
+- We have this because otherwise everyone procrastinates, including us.  
+- You need to complete the postcards in a month from the day you receive it.  
+- It would be better if you can complete your submission as soon as possible.
 
 **You create, we distribute**.
 
-Once you finish your artwork, send it to us. When your part ends, is when our has begun! We will collect your artwork, and photograph it. We will showcase it on Instagram, also tag you for exposure and publicity. We handle everyone's complaints, inventory, packaging, return orders, and shipping, so that you can meditate away and lose yourself in spellbound creativity.
+Once you finish your artwork, send it to us. When your part ends, is when our has begun!
+
+- We will collect your artwork, and photograph it.
+- We will showcase it on Instagram, also tag you for exposure and publicity.
+- We handle everyone's complaints, inventory, packaging, return orders, and shipping, so that you can meditate away and lose yourself in spellbound creativity.
 
 **Here's some fine print in bold text**.
 
