@@ -146,7 +146,7 @@ and want to chip in a little extra, or if you simply want to help us make faster
 
 <div class="roadmap-spacer-2"></div>
 
-Patreon charges payment processing fees to these contributions as follows.
+Patreon charges various fees to these contributions as follows.
 
 Payment fees: They cover the cost of processing payments from your patrons, including currency conversion, recurring billing, recovering failed payments, and fighting fraud.
 
@@ -157,7 +157,7 @@ Platform fees: They cover the cost of Patreon’s membership platform and are a 
 > Over $3 — 2.9% + $0.30  
 > Additional 1% for non-US PayPal payments
 
-The remainder enables Your Mail Project to sustain shipping to customers, and a bunch of other things. 
+The remainder enables Your Mail Project to sustain shipping to customers, and a bunch of other things.
 
 ***
 
