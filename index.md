@@ -47,6 +47,35 @@ Shop now and get exclusive.
 ***
 ***
 
+**People**.
+
+These people are artists who signed up for Your Mail Project, put their blood, sweat, and tears to make us who we are.
+
+Anbazhagan, Eyamuna.  
+Bafna, Raina.  
+Das, Ishita.  
+Gabajiwala, Tasneem.  
+Jhalani, Stuti.  
+Kaur, Divnoor.  
+Malik, Gazala.  
+Patade, Yugandhar.  
+Phodkar, Sairaj.  
+Rathod, Shraddha.  
+Reddy, Anisha K.  
+Salunke, Aditi.  
+Samant, Kushal.  
+Samant, Mitalee.  
+Sharma, Shivani.  
+Suryawanshi, Pranali.  
+Thakkar, Niyati.  
+
+> "The best lack all conviction, while the worst  
+> Are full of passionate intensity."  
+> Yeats, The Second Coming.
+
+***
+***
+
 **If you want to illustrate: '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'**.
 
 This link opens a form that asks you to enter your postal address. Don't you forget to give your phone number too, the postman may feel the need to use it. We use this information to ship to you a package of 11 blank postcards. Read on to figure what to do next.
