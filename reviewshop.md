@@ -153,7 +153,7 @@ and want to chip in a little extra, or if you simply want to help us make faster
 
 Patreon charges various fees to these contributions as follows.
 
-Payment fees: They cover the cost of processing payments from your patrons, including currency conversion, recurring billing, recovering failed payments, and fighting fraud.
+Payment fees: They cover the cost of processing payments from our patrons, including currency conversion, recurring billing, recovering failed payments, and fighting fraud.
 
 Platform fees: They cover the cost of Patreon’s membership platform and are a percentage of our successful patron payments.
 
