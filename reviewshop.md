@@ -43,7 +43,11 @@ This link opens a form that asks you to enter your postal address. Don't you for
 
 **Your role as an artist**.
 
-Once you receive this package, you can go all in! Unleash your creativity, ideally by testing 1 postcard with your materials to see. We would love to see you art up 10 postcards in a month, in your own unique way, whatever you may think that means. And yes! Do with anything you want, feel free to doodle, draw, sketch, or paint, or whatever you think of, as art.
+Once you receive this package, you can go all in! Unleash your creativity.
+
+- Ideally by testing 1 postcard with your materials to see.
+- We would love to see you art up 10 postcards in a month, in your own unique way, whatever you may think that means.
+- And yes! Do with anything you want, feel free to doodle, draw, sketch, or paint, or whatever you think of, as art.
 
 **Creating a symbiotic relationship**.
 
@@ -53,9 +57,10 @@ If you want to share work in progress images with the collective then use this h
 
 **Dead-line**.
 
-- We have one deadline only.  
-- We have this because otherwise everyone procrastinates, including us.  
-- You need to complete the postcards in a month from the day you receive it.  
+We have one deadline only.
+
+- We have this because otherwise everyone procrastinates, including us.
+- You need to complete the postcards in a month from the day you receive it.
 - It would be better if you can complete your submission as soon as possible.
 
 **You create, we distribute**.
