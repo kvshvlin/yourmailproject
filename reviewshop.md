@@ -64,7 +64,9 @@ Once you finish your artwork, send it to us. When your part ends, is when our ha
 
 - We will collect your artwork, and photograph it.
 - We will showcase it on Instagram, also tag you for exposure and publicity.
-- We handle everyone's complaints, inventory, packaging, return orders, and shipping, so that you can meditate away and lose yourself in spellbound creativity.
+- We handle everyone's complaints, inventory, packaging, return orders, and shipping.
+
+So that you can meditate away and lose yourself in spellbound creativity.
 
 **Here's some fine print in bold text**.
 
