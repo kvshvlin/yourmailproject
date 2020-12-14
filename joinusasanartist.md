@@ -1,6 +1,6 @@
-<a href="https://kvshvl.in/yourmailproject">A story to tell</a> / <a href="https://kvshvl.in/yourmailproject/artists.html">Artists</a> / **Join us as an artist** / <a href="https://kvshvl.in/yourmailproject/shop.html">Shop</a> / <a href="https://kvshvl.in/yourmailproject/roadmap.html">The Roadmap</a>
+**Join us as an artist**.
 
-**If you want to illustrate: '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'**.
+If you want to illustrate, then <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>.
 
 This link opens a form that asks you to enter your postal address. Don't you forget to give your phone number too, the postman may feel the need to use it. We use this information to ship to you a package of 11 blank postcards. Read on to figure what to do next.
 
@@ -81,8 +81,6 @@ We hope you will love to be a part of our community, do join us now, go click on
 </p>
 
 <div class="roadmap-spacer-2"></div>
-
-***
 
 If there’s something you don’t see here that you’d like to know, then email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
