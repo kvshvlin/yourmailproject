@@ -124,7 +124,7 @@ Here’s how you can help.
 
 If you’re already,
 
-> <a href="https://kvshvl.in/yourmailproject/artists.html" target="_blank">Following These Artists</a>  
+> <a href="https://kvshvl.in/yourmailproject/artists.html">Following These Artists</a>  
 > <a href="https://www.gumroad.com/yourmailproject" target="_blank">Buying Postcards</a>
 
 and want to chip in a little extra, or if you simply want to help us make faster progress, you can make a monthly contribution.
