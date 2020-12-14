@@ -9,7 +9,7 @@ The mission is to create. Since we're accountable to our patrons instead of adve
 
 Here’s how you can help.
 
-If you’re already following our content and want to chip in a little extra, or if you simply want to help us make faster progress, you can make a monthly contribution.
+If you’re already following our content, and want to chip in a little extra, or if you simply want to help us make faster progress, you can make a monthly contribution.
 
 <div class="roadmap-spacer-1"></div>
 
