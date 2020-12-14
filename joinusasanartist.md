@@ -85,8 +85,5 @@ We hope you will love to be a part of our community, do join us now, go click on
 
 <div class="roadmap-spacer-2"></div>
 
-If there’s something you don’t see here that you’d like to know, then email  
-[_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
-
 > "Nothing boots as fast as pen and paper."  
 > Sir Norman Robert Foster.
