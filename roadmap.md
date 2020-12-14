@@ -1,4 +1,4 @@
-**The Roadmap**.
+<a href="https://kvshvl.in/yourmailproject">A story to tell</a> / <a href="https://kvshvl.in/yourmailproject/artists.html">Artists</a> / <a href="https://kvshvl.in/yourmailproject/joinusasanartist.html">Join us as an artist</a> / <a href="https://kvshvl.in/yourmailproject/shop.html">Shop</a> / **The Roadmap**
 
 Here you can see how we're doing. By sharing this information we aim to demystify the weird and wonderful process of working as mostly bootstrapped creators. We're working our hardest to build a space that’s mindful, respectful, and accountable to thousands of lovely patrons. We've lots of ideas about how to do a better job, as well as lots of challenges. This is meant to be as transparent as reasonably possible.
 
@@ -42,5 +42,5 @@ The remainder enables Your Mail Project to sustain a bunch of things like coffee
 If there’s something you don’t see here that you’d like to know, then email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
 
-> "Nothing boots as fast as pen and paper."  
-> Sir Norman Robert Foster.
+> "I’ve spent a life chasing stories to tell when I’m old."  
+> Duncan Penn, Atticus Poetry.
