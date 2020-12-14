@@ -157,7 +157,7 @@ Platform fees: They cover the cost of Patreon’s membership platform and are a 
 > Over $3 — 2.9% + $0.30  
 > Additional 1% for non-US PayPal payments
 
-The remainder enables Your Mail Project to sustain shipping to customers, and a bunch of other things.
+The remainder enables Your Mail Project to sustain a bunch of things like coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, this website, &c.
 
 ***
 
