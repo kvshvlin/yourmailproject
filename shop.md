@@ -5,11 +5,11 @@ Our customers receive unique Postcards. These are hand drawn illustrations, not 
 Ahem! When we say unique, this is what we mean,
 
 - These are all hand drawn illustrations.
-- - No illustrations will ever repeat.
+- No illustrations will ever repeat.
 - None of these postcards are printed or will get a reprint.
-- - None of these postcard are published like an magazine is.
+- None of these postcard are published like an magazine is.
 - Every customer gets a different illustrated postcard as different as different can be.
-- - Every customer can rest assured that he/she/they hold a postcard that's exclusively made.
+- Every customer can rest assured that he/she/they hold a postcard that's exclusively made.
 
 Shop now and get exclusive.
 
