@@ -15,12 +15,10 @@ Our business model is an artists for artists/ community-based business model. Yo
 > "Short words are best and the old words when short are best of all."  
 > Winston Churchill.
 
-***
-***
 
 **Shop**.
 
-Our customers receive unique Postcards. These are hand drawn illustrations, not sponsored by India Post, but you can still send these to your family and friends, there is some space left for a message and an address.
+You will receive unique Postcards. These are hand drawn illustrations, not sponsored by India Post, but you can still send these to your family and friends, there is some space left for a message and an address.
 
 Ahem! When we say unique, this is what we mean,
 
@@ -28,8 +26,8 @@ Ahem! When we say unique, this is what we mean,
 - No illustrations will ever repeat.
 - None of these postcards are printed or will get a reprint.
 - None of these postcard are published like an magazine is.
-- Every customer gets a different illustrated postcard as different as different can be.
-- Every customer can rest assured that he/she/they hold a postcard that's exclusively made.
+- Everyone gets a different illustrated postcard as different as different can be.
+- Everyone can rest assured that he/she/they hold a postcard that's exclusively made.
 
 Shop now and get exclusive.
 
@@ -44,8 +42,6 @@ Shop now and get exclusive.
 > "The public should always be wondering how it is possible to give so much for the money."  
 > Henry Ford.
 
-***
-***
 
 **People**.
 
@@ -73,8 +69,6 @@ Thakkar, Niyati.
 > Are full of passionate intensity."  
 > Yeats, The Second Coming.
 
-***
-***
 
 **If you want to illustrate: '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join&nbsp;us&nbsp;as&nbsp;an&nbsp;artist</a>'**.
 
@@ -164,8 +158,6 @@ We hope you will love to be a part of our community, do join us now, go click on
 > "Nothing boots as fast as pen and paper."  
 > Sir Norman Robert Foster.
 
-***
-***
 
 **The Roadmap**.
 
@@ -188,18 +180,7 @@ If you’re already following our content, and want to chip in a little extra, o
 
 <div class="roadmap-spacer-2"></div>
 
-Patreon charges various fees to these contributions as follows.
-
-Payment fees: They cover the cost of processing payments from our patrons, including currency conversion, recurring billing, recovering failed payments, and fighting fraud.
-
-Platform fees: They cover the cost of Patreon’s membership platform and are a percentage of our successful patron payments.
-
-> Payment Amount — Rate per successful payment.  
-> $3 or less — 5% + $0.10  
-> Over $3 — 2.9% + $0.30  
-> Additional 1% for non-US PayPal payments
-
-The remainder enables Your Mail Project to sustain a bunch of things like coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, this website, &c.
+Your contribution enables Your Mail Project to sustain a bunch of things like coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, this website, &c.
 
 > "I’ve spent a life chasing stories to tell when I’m old."  
 > Duncan Penn, Atticus Poetry.
