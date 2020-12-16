@@ -26,7 +26,7 @@ We have one deadline only.
 
 **You create, we distribute**.
 
-Once you finish creating your handmade illustrated postcards, send it to us. When your part ends, is when our has begun!
+Once you finish creating your handmade illustrated postcards, send them to us. When your part ends, is when our has begun!
 
 - We will collect your handmade illustrated postcards, and photograph it.
 - We will showcase it on Instagram, also tag you for exposure and publicity.
