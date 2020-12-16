@@ -39,7 +39,7 @@ Please note that we do not guarantee that your artwork will sell, but we do our 
 
 **Let's talk numbers**.
 
-Once your artwork sells, we will pay you as an artist. We are sharing the following information to demystify our business model. We hope that this will help you calculate your selling price.
+We will pay you as an artist, only if your artwork sells. We are sharing the following information to demystify our business model.
 
 **The basic cost**.
 
@@ -64,15 +64,9 @@ Making 1 postcards shop ready should approximately cost,
 = Rs. 98.5 / 10  
 = Rs. 9.85.
 
-**The selling price**.
+We levy an extra $2 charge to the customers on every postcard to help us sustain a bunch of things like coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, this website, &c.
 
-Be mindful that since you have to use your own materials, this costing excludes the cost of materials used for creating the artwork, the cost of an artist's labour, and an artist's profit margin, as these values remain unknown to us.
-
-It is recommended that your selling price include your basic cost, cost of materials used, cost of labour, profit margin, and any other particulars you deem necessary.
-
-We levy a $2 charge per postcard over your selling price. This enables Your Mail Project to sustain a bunch of things like coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, this website, &c.
-
-Hence, we request you to give us a selling price for your artwork/s, via email  
+Be mindful that, since you have to use your own materials, the costing excludes the cost of materials used for creating the artwork, the cost of your labour, and your profit margins, as these values are unknown to us. Hence, we request you to share these values, and any particulars you deem necessary with us, via email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
 
 We hope you will love to be a part of our community.
