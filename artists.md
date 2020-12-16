@@ -1,6 +1,6 @@
 **Artists**.
 
-These people are artists who signed up for Your Mail Project, put their blood, sweat, and tears to make us who we are.
+These are artists who signed up for Your Mail Project.
 
 Anbazhagan, Eyamuna.  
 Bafna, Raina.  
