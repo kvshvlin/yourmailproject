@@ -8,7 +8,7 @@ We are a practice with the intentions of creating an opportunity for folks who c
 
 Here’s how you can help.
 
-If you’re already following us on  **<a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>**, and want to chip in a little extra, or if you simply want to help us make faster progress, you can shop these illustrated postcards **<a href="https://www.gumroad.com/yourmailproject" target="_blank">here</a>**.
+If you’re already following us on  **<a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>**, and want to chip in a little extra, or if you simply want to help us make faster progress, you can shop these illustrated postcards **<a class="btn" href="https://www.gumroad.com/yourmailproject" target="_blank">here</a>**.
 
 These postcards are unique in the way that: no illustration will ever be printed, published like a magazine, reprinted, or remade; everyone gets a handmade illustrated postcard that is exclusive to them. You can send these to your family and friends with / without writing a message on them.
 
