@@ -1,6 +1,6 @@
 **Join as an illustrator**.
 
-If you want to illustrate: you can sign up using <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form. It asks you to enter your postal address. Don't you forget to give your phone number too, the postman may feel the need to use it. We use this information to ship to you a package of 11 blank postcards. Read on to figure what to do next.
+If you want to illustrate: you can sign up using <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form. It asks you to enter your postal address. We use this information to ship to you a package of 11 blank postcards. Don't you forget to give your phone number too, the postman may feel the need to use it. Read on to figure what to do next.
 
 **Your role as an artist**.
 
@@ -68,9 +68,9 @@ Making 1 postcards shop ready should approximately cost,
 
 Be mindful, that you have to use your own materials. This costing excludes the cost of materials used for creating the artwork, the cost of an artist's labour, and an artist's profit margin since these values remain unknown to us.
 
-It is recommended that your selling price include your basic cost, cost of materials used, cost of labour, profit margin, and any other particulars you deem necessary.
+We charge a basic minimum of $2 per postcard to sustain a bunch of things like coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, the website, &c.
 
-We charge $2 per postcard to sustain a bunch of things like coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, the website, &c.
+It is recommended that your selling price include your basic cost, cost of materials used, cost of labour, profit margin, our $2, and any other particulars you deem necessary.
 
 Hence, we request you to give us a selling price for your artwork/s, via email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
@@ -80,7 +80,7 @@ We hope you will love to be a part of our community, do join us now, go click on
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an artist</a><br>
+<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
