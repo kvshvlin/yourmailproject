@@ -1,6 +1,6 @@
 **Join as an illustrator**.
 
-If you want to illustrate: you can sign up using <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form. It asks you to enter your postal address. We use this information to ship to you a package of 11 blank postcards. Don't you forget to give your phone number too, the postman may feel the need to use it. Read on to figure what to do next.
+If you want to illustrate: you can sign up using **<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a>** form. It asks you to enter your postal address. We use this information to ship to you a package of 11 blank postcards. Don't you forget to give your phone number too, the postman may feel the need to use it. Read on to figure what to do next.
 
 **Your role as an artist**.
 
