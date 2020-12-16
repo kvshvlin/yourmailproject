@@ -67,7 +67,7 @@ This will help us to figure selling price of a handmade illustrated postcard. We
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an illustrator</a><br>
+<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an Illustrator</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
