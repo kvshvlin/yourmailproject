@@ -2,8 +2,6 @@
 
 Here you can see how we're doing. By sharing this information we aim to demystify the weird and wonderful process of working as mostly bootstrapped creators. We're working our hardest to build a space that’s mindful, respectful, and accountable to thousands of lovely patrons. We've lots of ideas about how to do a better job, as well as lots of challenges. This is meant to be as transparent as reasonably possible.
 
-We’ve lots of ideas about how to do a better job, as well as lots of challenges. This is meant to be as transparent as reasonably possible.
-
 The mission is to create. Since we're accountable to our patrons instead of advertisers, our incentive is always to create a meaningful product. This also means that the future of Your Mail Project relies entirely on your contributions.
 
 We ship blank postcards to these **<a href="https://kvshvl.in/yourmailproject/artists.html">artists</a>**, who create handmade illustrations on them, before returning them to us.
