@@ -66,21 +66,21 @@ Making 1 postcards shop ready should approximately cost,
 
 **The selling price**.
 
-Be mindful, that you have to use your own materials. This costing excludes the cost of materials used for creating the artwork, the cost of an artist's labour, and an artist's profit margin since these values remain unknown to us.
+Be mindful that since you have to use your own materials, this costing excludes the cost of materials used for creating the artwork, the cost of an artist's labour, and an artist's profit margin, as these values remain unknown to us.
 
-We charge a basic minimum of $2 per postcard to sustain a bunch of things like coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, the website, &c.
+It is recommended that your selling price include your basic cost, cost of materials used, cost of labour, profit margin, and any other particulars you deem necessary.
 
-It is recommended that your selling price include your basic cost, cost of materials used, cost of labour, profit margin, our $2, and any other particulars you deem necessary.
+We levy a $2 charge per postcard over your selling price. This enables Your Mail Project to sustain a bunch of things like coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, this website, &c.
 
 Hence, we request you to give us a selling price for your artwork/s, via email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
 
-We hope you will love to be a part of our community, do join us now, go click on this link below.
+We hope you will love to be a part of our community.
 
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us</a><br>
+<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an illustrator</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
