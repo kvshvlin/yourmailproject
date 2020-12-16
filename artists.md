@@ -1,6 +1,6 @@
 **Artists**.
 
-These are artists who signed up for Your Mail Project.
+These artists signed up for Your Mail Project.
 
 Anbazhagan, Eyamuna.  
 Bafna, Raina.  
@@ -18,7 +18,10 @@ Samant, Kushal.
 Samant, Mitalee.  
 Sharma, Shivani.  
 Suryawanshi, Pranali.  
-Thakkar, Niyati.  
+Thakkar, Niyati.
+
+If there’s something you don’t see here that you’d like to know, then email  
+ [_yourmailproject (at) gmail (dot) com_](mailto: yourmailproject@gmail.com).
 
 > "The best lack all conviction, while the worst  
 > Are full of passionate intensity."  
