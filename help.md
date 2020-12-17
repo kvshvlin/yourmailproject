@@ -1,0 +1,18 @@
+**Here’s how you can help**.
+
+If you’re already following us on  **<a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>**, and want to chip in a little extra, or if you simply want to help us make faster progress, you can shop these handmade illustrated postcards.
+
+<div class="roadmap-spacer-1"></div>
+
+<p>
+<a class="btn" href="https://www.gumroad.com/yourmailproject" target="_blank">Shop Now</a><br>
+</p>
+
+<div class="roadmap-spacer-2"></div>
+
+If there’s something you don’t see here that you’d like to know, then email  
+ [_yourmailproject (at) gmail (dot) com_](mailto: yourmailproject@gmail.com).
+ 
+ > "Short words are best and the old words when short are best of all."  
+ > Winston Churchill.
+ 
