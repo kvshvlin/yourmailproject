@@ -8,7 +8,7 @@ We ship blank postcards to artists and ask them to create handmade illustrations
 
 These handmade illustrated postcards are unique in the way that: no illustration will ever be printed, published like a magazine, reprinted, or remade; everyone gets a handmade illustrated postcard that is exclusive to them. You can send these handmade illustrated postcards to your family and friends with / without writing a message on them.
 
-If you’re already following our content, and want to chip in a little extra, or if you simply want to help us make faster progress, or if you would like to purchase a handmade illustrated postcard, or if there’s something you don’t see here that you’d like to know, then you can DM us on Instagram.
+If you’re already following our content, and want to chip in a little extra, or if you simply want to help us make faster progress, or if you would like to make a purchase, or if there’s something you don’t see here that you’d like to know, then you can DM us on Instagram.
 
 <div class="roadmap-spacer-1"></div>
 
@@ -164,7 +164,7 @@ That would be all. We hope you will love to be a part of our community.
 
 <div class="roadmap-spacer-2"></div>
 
-If you’re already following our content, and want to chip in a little extra, or if you simply want to help us make faster progress, or if you would like to purchase a handmade illustrated postcard, or if there’s something you don’t see here that you’d like to know, then you can DM us on Instagram.
+If you’re already following our content, and want to chip in a little extra, or if you simply want to help us make faster progress, or if you would like to make a purchase, or if there’s something you don’t see here that you’d like to know, then you can DM us on Instagram.
 
 <div class="roadmap-spacer-1"></div>
 
