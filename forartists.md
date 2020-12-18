@@ -27,3 +27,10 @@ Once you receive this package, you can go all in! Unleash your creativity.
 - And yes! In your own unique way, whatever you may think that means: Do with anything you want, feel free to doodle, draw, sketch, or paint, or whatever you think of, as art.
 - If you want us to repost, tag, and share your work in progress images with the collective then use this hashtag '#yourmailproject' on Instagram whenever relevant.
 
+**Dead-line**.
+
+We have one deadline only.
+- We have this because otherwise everyone procrastinates, including us.
+- You need to complete illustrating the blank postcards in a month from the day you receive it.
+- It would be better if you can complete your submission as soon as possible.
+
