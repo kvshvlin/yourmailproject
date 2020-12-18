@@ -1,4 +1,4 @@
-**Official Site / Your Mail Project**.
+**Official Website / Your Mail Project**.
 
 **Handmade Illustrated Postcards**.
 
