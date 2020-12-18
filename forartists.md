@@ -50,7 +50,7 @@ We handle everyone's complaints, inventory, packaging, return orders, and shippi
 
 So that you can meditate away and lose yourself in spellbound creativity.
 
-**Here's Some Fineprint In Bold Text**.
+**Here's The Fine-print In A More Readable Size**.
 
 Please note that we do not guarantee that your handmade illustrated postcards will sell, but we do our best to give it exposure instead.
 
