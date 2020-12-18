@@ -18,8 +18,8 @@ If you’re already following our content, and want to chip in a little extra, o
 
 <div class="roadmap-spacer-2"></div>
 
-> "Short words are best and the old words when short are best of all."  
-> Winston Churchill.
+> "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."  
+> Alan Kay.
 
 <div class="roadmap-spacer-1"></div>
 
