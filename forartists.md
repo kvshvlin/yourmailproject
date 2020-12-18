@@ -4,15 +4,7 @@ From the ink, the colours, to paints, we are the people who fall madly in love w
  
 We are a habit, a meditative process, a peace in testing times. We are the essence of calming our minds and channeling our energies into expressive forms, of brush on canvas, and pen on paper, or anything that you can think of, in your own world. We are a chance at losing ourselves in creative thought, while creating actual art.
 
-We are a practice with the intentions of creating an opportunity for folks who can create. We keep things simple, thoughtful, and transparent. You can talk about us to your family and friends, and ask them to make a purchase on our Instagram.
-
-<div class="roadmap-spacer-1"></div>
-
-<p>
-<a class="btn" href="https://www.instagram.com/yourmailproject">Instagram</a><br>
-</p>
-
-<div class="roadmap-spacer-2"></div>
+We are a practice with the intentions of creating an opportunity for folks who can create. We keep things simple, thoughtful, and transparent.
 
 **If You Want To Illustrate**.
 
@@ -114,7 +106,7 @@ D = S - E.
 E = S - D.
 ~~~
 
-We hope you have understood our initiative. We hope you will love to be a part of our community.
+That would be all. We hope you will love to be a part of our community.
 
 <div class="roadmap-spacer-1"></div>
 
@@ -124,9 +116,24 @@ We hope you have understood our initiative. We hope you will love to be a part o
 
 <div class="roadmap-spacer-2"></div>
 
-We hope we have not missed out on explaining anything. If there’s something you don’t see here that you’d like to know, then email  
-[_yourmailproject (at) gmail (dot) com_](mailto: yourmailproject@gmail.com).
+If you’re already following our content, and want to chip in a little extra, or if you simply want to help us make faster progress, or if you want to order some of these handmade illustration postcards, if there’s something you don’t see here that you’d like to know, then you can DM us on Instagram.
+
+<div class="roadmap-spacer-1"></div>
+
+<p>
+<a class="btn" href="https://www.instagram.com/yourmailproject">Instagram</a><br>
+</p>
+
+<div class="roadmap-spacer-2"></div>
 
 > "Nothing boots as fast as pen and paper."
 > Sir Norman Robert Foster.
+
+<div class="roadmap-spacer-1"></div>
+
+<p>
+<a class="btn" href="https://kvshvl.in/yourmailproject" target="_blank"><</a><br>
+</p>
+
+<div class="roadmap-spacer-2"></div>
           
