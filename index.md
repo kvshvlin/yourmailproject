@@ -1,4 +1,4 @@
-**Handmade Illustrated Postcards**.
+**Get a Handmade Illustrated Postcard every month**.
 
 Here you can see how we're doing. By sharing this information we aim to demystify the weird and wonderful process of working as mostly bootstrapped creators. We're working our hardest to build a space that’s mindful, respectful, and accountable to thousands of lovely patrons. We've lots of ideas about how to do a better job, as well as lots of challenges. This is meant to be as transparent as reasonably possible.
 
