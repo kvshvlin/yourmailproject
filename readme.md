@@ -4,7 +4,7 @@ From the ink, the colours, to paints, we are the people who fall madly in love w
  
 We are a habit, a meditative process, a peace in testing times. We are the essence of calming our minds and channeling our energies into expressive forms, of brush on canvas, and pen on paper, or anything that you can think of, in your own world. We are a chance at losing ourselves in creative thought, while creating actual art.
 
-We are a practice with the intentions of creating an opportunity for folks who can create. We keep things simple, thoughtful, and transparent.
+We are a practice with the intention of creating opportunities for folks who can create. We keep things simple, thoughtful, and transparent.
 
 The mission is to create handmade illustrated postcards. Since we're accountable to our patrons instead of advertisers, our incentive is always to create a meaningful product. This also means that the future of Your Mail Project relies entirely on sales.
 
