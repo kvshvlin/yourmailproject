@@ -1,56 +1,22 @@
-**If You Want To Illustrate**.
+**If you want to illustrate**.
 
-You can sign up using **<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a>** form.
+You can sign up using **<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a>** form. It asks you to enter your postal address. Don't you forget to give your phone number too, the postman may feel the need to use it. We use this information to ship to you a package of 11 blank postcards.
 
-It asks you to enter your postal address.
+**Your role as an Illustrator**.
 
-Don't you forget to give your phone number too, the postman may feel the need to use it.
-
-We use this information to ship to you a package of 11 blank postcards.
-
-**Your Role As An Illustrator**.
-
-Once you receive this package, you can go all in! Unleash your creativity.
-
-Ideally by testing 1 postcard with your materials to see.
-
-We would love to see you illustrate 10 postcards in a month.
-
-And yes! In your own unique way, whatever you may think that means: Do with anything you want, feel free to doodle, draw, sketch, or paint, or whatever you think of, as art.
-
-If you want us to repost, tag, and share your work in progress images with the collective then use this hashtag '#yourmailproject' on Instagram whenever relevant.
+Once you receive this package, you can go all in! Unleash your creativity. Ideally by testing 1 postcard with your materials to see. We would love to see you illustrate 10 postcards in a month. And yes! In your own unique way, whatever you may think that means: Do with anything you want, feel free to doodle, draw, sketch, or paint, or whatever you think of, as art. If you want us to repost, tag, and share your work in progress images with the collective then use this hashtag '#yourmailproject' on Instagram whenever relevant.
 
 **Dead-line**.
 
-We have one deadline only.
-
-We have this because otherwise everyone procrastinates, including us.
-
-You need to complete illustrating the blank postcards in a month from the day you receive it.
-
-It would be better if you can complete your submission as soon as possible.
+We have one deadline only. We have this because otherwise everyone procrastinates, including us. You need to complete illustrating the blank postcards in a month from the day you receive it. It would be better if you can complete your submission as soon as possible.
 
 **Post-production**.
 
-Once you finish creating your handmade illustrated postcards, send them to us. When your part ends, is when ours has begun!
+Once you finish creating your handmade illustrated postcards, send them to us. When your part ends, is when ours has begun! We will collect your handmade illustrated postcards, and photograph it. We will showcase it on Instagram, also tag you for exposure and publicity. We handle everyone's complaints, inventory, packaging, return orders, and shipping. So that you can meditate away and lose yourself in spellbound creativity.
 
-We will collect your handmade illustrated postcards, and photograph it.
+**Here's the fine-print in a more readable size**.
 
-We will showcase it on Instagram, also tag you for exposure and publicity.
-
-We handle everyone's complaints, inventory, packaging, return orders, and shipping.
-
-So that you can meditate away and lose yourself in spellbound creativity.
-
-**Here's The Fine-print In A More Readable Size**.
-
-Please note that we do not guarantee that your handmade illustrated postcards will sell, but we do our best to give it exposure instead.
-
-You control if it’s still available for sale, but we can only return your handmade illustrated postcards to you if it’s not sold.
-
-We will pay your profit, only after your handmade illustrated postcard sells.
-
-Remember, we handle, respect, think of, and treat your work as we would when ‘All copyrights are reserved by the original author’.
+Please note that we do not guarantee that your handmade illustrated postcards will sell, but we do our best to give it exposure instead. You control if it’s still available for sale, but we can only return your handmade illustrated postcards to you if it’s not sold. We will pay your profit, only after your handmade illustrated postcard sells. Remember, we handle, respect, think of, and treat your work as we would when ‘All copyrights are reserved by the original author’.
 
 **Artists**.
 
@@ -74,7 +40,7 @@ Sharma, Shivani.
 Suryawanshi, Pranali.  
 Thakkar, Niyati.
 
-**Let's Talk Numbers**.
+**Let's talk numbers**.
 
 We are sharing the following information to demystify our business model.
 
