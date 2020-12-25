@@ -55,14 +55,6 @@ These handmade illustrated postcards are unique in the way that: no illustration
 
 You can sign up using **<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a>** form. It asks you to enter your postal address. Don't you forget to give your phone number too, the postman may feel the need to use it. We use this information to ship to you a package of 11 blank postcards.
 
-<div class="roadmap-spacer-1"></div>
-
-<p>
-<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an Illustrator</a><br>
-</p>
-
-<div class="roadmap-spacer-2"></div>
-
 **Your role as an Illustrator**.
 
 Once you receive this package, you can go all in! Unleash your creativity. Ideally by testing 1 postcard with your materials to see. We would love to see you illustrate 10 postcards in a month. And yes! In your own unique way, whatever you may think that means: Do with anything you want, feel free to doodle, draw, sketch, or paint, or whatever you think of, as art. If you want us to repost, tag, and share your work in progress images with the collective then use this hashtag '#yourmailproject' on Instagram whenever relevant.
@@ -147,7 +139,7 @@ We hope you will love to be a part of our community.
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://kvshvl.in/yourmailproject/getpostcards.html"><</a><br>
+<a class="btn" href="https://kvshvl.in/yourmailproject/getpostcards.html"><</a>|<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an Illustrator</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
