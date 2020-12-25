@@ -97,7 +97,7 @@ We hope you will love to be a part of our community.
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://kvshvl.in/yourmailproject"><</a><br>
+<a class="btn" href="https://kvshvl.in/yourmailproject/getpostcards.html"><</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
