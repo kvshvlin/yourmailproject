@@ -14,7 +14,7 @@ Here’s how you can help.
 
 If you aren't already following our content, then
 
-- <a href="https://kvshvlin.github.io/yourmailproject/getpostcards.html">Get Postcards</a>
+- <a href="https://kvshvlin.github.io/yourmailproject/getpostcards.html">Get Handmade Illustrated Postcards every month</a>
 - <a href="https://kvshvlin.github.io/yourmailproject/forartists.html">Join us as an Illustrator</a>
 
 If you’re already following our content, and want to chip in a little extra, or if you simply want to help us make faster progress, you can make a monthly contribution.
