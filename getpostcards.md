@@ -11,10 +11,11 @@ These handmade illustrated postcards are unique in the way that: no illustration
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://kvshvl.in/yourmailproject/forartists.html">></a><br>
+<a class="btn" href="https://www.instagram.com/yourmailproject" target="_blank">Shop</a>|<a class="btn" href="https://kvshvl.in/yourmailproject/forartists.html">></a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
 
 > "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."  
 > Alan Kay.
+
