@@ -1,6 +1,6 @@
-**If you want to illustrate**.
+**Join us as an Illustrator**.
 
-You can sign up using **<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a>** form. It asks you to enter your postal address. Don't you forget to give your phone number too, the postman may feel the need to use it. We use this information to ship to you a package of 11 blank postcards.
+If you want to illustrate, you can sign up using **<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a>** form. It asks you to enter your postal address. Don't you forget to give your phone number too, the postman may feel the need to use it. We use this information to ship to you a package of 11 blank postcards.
 
 **Your role as an Illustrator**.
 
@@ -86,7 +86,7 @@ We hope you will love to be a part of our community.
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://kvshvl.in/yourmailproject/getpostcards.html"><</a>|<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us as an Illustrator</a><br>
+<a class="btn" href="https://kvshvl.in/yourmailproject/getpostcards.html"><</a>|<a class="btn" href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">Join us</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
