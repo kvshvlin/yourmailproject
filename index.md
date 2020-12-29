@@ -1,6 +1,5 @@
 **Since 2020**.
 
-----
 Your Mail Project is a community with the intention of creating opportunities for artists. Subscribe to handmade illustrated postcards here.
 
 <div class="roadmap-spacer-1"></div>
