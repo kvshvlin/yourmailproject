@@ -1,6 +1,7 @@
 **Since 2020**.
 
-Your Mail Project is a community with the intention of creating opportunities for artists. We keep things simple, thoughtful, and transparent.
+----
+Your Mail Project is a community with the intention of creating opportunities for artists. Subscribe to handmade illustrated postcards here.
 
 If there’s something you don’t see here that you’d like to know, then you can DM us on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>.
 
