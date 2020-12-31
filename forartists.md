@@ -4,15 +4,17 @@ If you want to illustrate, you can sign up using **<a href="https://yourmailproj
 
 **Your role as an Illustrator**.
 
-Once you receive this package, you can go all in! Unleash your creativity. Ideally by testing 1 postcard with your materials to see. We would love to see you illustrate 10 postcards in a month. And yes! In your own unique way, whatever you may think that means: Do with anything you want, feel free to doodle, draw, sketch, or paint, or whatever you think of, as art. If you want us to repost, tag, and share your work in progress images with the collective then use this hashtag '#yourmailproject' on Instagram whenever relevant.
+Once you receive this package, you can go all in! Unleash your creativity, ideally by testing your materials on that 1 extra postcard. We would love to see you illustrate the other 10 postcards anyhow you fancy. Please feel free to doodle, draw, sketch, or paint, or whatever you think of as art, as we want these to be your unique artworks.
+
+If you want us to repost, tag, and share your work in progress images with the collective then use this hashtag '#yourmailproject' on Instagram whenever relevant.
 
 **Dead-line**.
 
-We have one deadline only. We have this because otherwise everyone procrastinates, including us. You need to complete illustrating the blank postcards in a month from the day you receive it. It would be better if you can complete your submission as soon as possible.
+We have one deadline only. We have this because otherwise everyone procrastinates, including us. We expect you to complete illustrating the blank postcards within a month from the day you receive them. It would be better if you can complete your submission as soon as possible.
 
 **Post-production**.
 
-Once you finish creating your handmade illustrated postcards, send them to us. When your part ends, is when ours has begun! We will collect your handmade illustrated postcards, and photograph it. We will showcase it on Instagram, also tag you for exposure and publicity. We handle everyone's complaints, inventory, packaging, return orders, and shipping. So that you can meditate away and lose yourself in spellbound creativity.
+Once you finish creating your handmade illustrated postcards, send them to us. When your part ends, ours begins! We will collect your handmade illustrated postcards, and photograph it. We will showcase it on Instagram, also tag you for exposure and publicity. We handle everyone's complaints, inventory, packaging, return orders, and shipping. So that you can meditate away and lose yourself in spellbound creativity.
 
 **Here's the fine-print in a more readable size**.
 
@@ -60,7 +62,7 @@ Rs. 41.5 for speed post
 = Rs. 98.5 / 10  
 = Rs. 9.85.
 
-**D**. We levy an extra $2 charge to the customers on every handmade illustrated postcard to help us sustain a bunch of things like our basic cost, coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, this website, PLUS any particulars we deem necessary.
+**D**. We levy an extra INR 150 charge to the customers on every handmade illustrated postcard to help us sustain a bunch of things like our basic cost, coffee, logistics, operations, packaging, pizza, shipping to customers, support to artists, tech support, this website, PLUS any particulars we deem necessary.
 
 **E**. Since you have to use your own materials, the cost of materials used for creating the illustrations, the cost of your labour, your profit margins, are values that are unknown to us. We request you to share these values with us, PLUS any particulars you deem necessary, via email  
 [_yourmailproject (at) gmail (dot) com_](mailto:yourmailproject@gmail.com).
