@@ -1,16 +1,6 @@
 **Since 2020**.
 
-Your Mail Project is a community with the intention of creating opportunities for artists. Subscribe to handmade illustrated postcards <a href="https://www.patreon.com/kvshvl?fan_landing=true" target="_blank">here</a>.
-
-<div class="roadmap-spacer-1"></div>
-
-<p>
-<a class="btn" href="https://www.patreon.com/kvshvl?fan_landing=true" target="_blank">Become a Patron!</a><br>
-</p>
-
-<div class="roadmap-spacer-2"></div>
-
-If there’s something you don’t see here that you’d like to know, then you can DM us on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram @yourmailproject</a>.
+Your Mail Project is a community with the intention of creating opportunities for artists.
 
 > "The best lack all conviction, while the worst  
 Are full of passionate intensity."  
@@ -26,13 +16,17 @@ We ship blank postcards to artists and ask them to create handmade illustrations
 
 These handmade illustrated postcards are unique in the way that: no illustration will ever be printed, published like a magazine, reprinted, or remade; everyone gets a handmade illustrated postcard that is exclusive to them. You can send these handmade illustrated postcards to your family and friends with / without writing a message on them.
 
+Subscribe to handmade illustrated postcards <a href="https://www.patreon.com/kvshvl?fan_landing=true" target="_blank">here</a>.
+
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://www.instagram.com/yourmailproject" target="_blank">Shop</a><br>
+<a class="btn" href="https://www.patreon.com/kvshvl?fan_landing=true" target="_blank">Become a Patron!</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
+
+If there’s something you don’t see here that you’d like to know, then you can DM us on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram @yourmailproject</a>.
 
 > "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."  
 > Alan Kay.
