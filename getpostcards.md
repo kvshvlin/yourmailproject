@@ -1,4 +1,4 @@
-**Get 5 Handmade Illustrated Postcards every month**.
+**Get Handmade Illustrated Postcards every month**.
 
 From the ink, the colours, to paints; we are the people who fall madly in love with an orchestra of colours in space. We find magic in every stroke, as our hearts beat faster as they evoke, a rising tide of emotions. That there is nothing more peaceful than drawing that picture, that doodle, that painting, that caricature, and more.
 
