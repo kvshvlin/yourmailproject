@@ -1,4 +1,4 @@
-**Contributors**.
+**Illustrators**.
 
 Here's the list of Illustrators who signed up to Your Mail Project.
 
