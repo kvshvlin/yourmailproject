@@ -6,7 +6,8 @@ Apologies.
 
 We chose to make this temporary page to inform you that we are reviewing, revising, rewriting Your Mail Project with an intention to simplify it for both our illustrators and our patrons.
 
-Come back another day, we will be back.
+Come back another day.  
+We will be back soon.
 
 > "Nothing boots as fast as pen and paper."
 > Sir Norman Robert Foster.
