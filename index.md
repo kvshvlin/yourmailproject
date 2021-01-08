@@ -16,7 +16,7 @@ Step 5. Albeit the original author reserves all copyrights, after we receive an 
 
 Step 6. Every customer gets an exclusive product that will never be replicated in analog or digital or mixed formats, and can be sent to friends and family via India Post with / without an accompanying message.
 
-Step 7. We offer unique pricing for handmade illustrated postcards at flea markets / offline sales, offer the illustrator's selling price on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>, and offer subscriptions via <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">Patreon</a>.
+Step 7. We offer unique pricing for handmade illustrated postcards at flea markets / offline sales, illustrator's preferred selling price on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>, and subscriptions on <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">Patreon</a>.
 
 Step 8. Once a sale happens, we pay half of the selling price to the illustrator, so every illustrator gets an exclusive deal.
 
