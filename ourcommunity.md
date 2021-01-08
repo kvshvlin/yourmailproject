@@ -24,5 +24,5 @@ Shivaraj, Hemanth.
 Suryawanshi, Pranali.  
 Thakkar, Niyati.
 
-> "If there's something you really want, then the entire universe conspires to give it to you."
-> Paulo Coelho.
+> "Race... It is a small part of what we do... The rest of the time... We practice."  
+> Toyota Formula One Team.
