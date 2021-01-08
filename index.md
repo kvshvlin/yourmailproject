@@ -12,17 +12,17 @@ Step 3. Share work in progress images to your Instagram stories and tag our Inst
 
 Step 4. Mail your illustrated postcards to us as soon as possible via speed post along with your preferred selling price for each.
 
-Step 5. Albeit the original author reserves all copyrights, after we receive complete illustrated postcards we use numbered envelopes with Your Mail Project brand assets to curate the project.
+Step 5. Albeit the original author reserves all copyrights, after we receive an illustrator's submission we use numbered envelopes with Your Mail Project brand assets to curate the project.
 
 Step 6. Every customer gets an exclusive product that will never be replicated in analog or digital or mixed formats, and can be sent to friends and family via India Post with / without an accompanying message.
 
 Step 7. We offer unique pricing for handmade illustrated postcards at flea markets / offline sales, offer the illustrator's selling price on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>, and offer subscriptions via <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">Patreon</a>.
 
-Step 8. Every handmade illustrated postcard is available for sale without the guarantee that it will sell, so all payouts are only valid for sold goods, and only unsold goods can be returned to the original author on demand.
+Step 8. Once a sale happens, we pay half of the selling price to the illustrator, so every illustrator gets an exclusive deal.
 
-Step 9. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more so that you can meditate away and lose yourself in spellbound creativity, feel, look, touch, and quality of the illustrations.
+Step 9. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more.
 
-Step 10. Once a sale happens, we pay half of the selling price to the illustrator, so every illustrator gets an exclusive deal.
+Step 10. Every handmade illustrated postcard is available for sale without the guarantee that it will sell, so all payouts are only valid for sold goods, and only unsold goods can be returned to the original author on demand.
 
 You can read more about our business model [_here_](https://kvshvlin.github.io/yourmailproject/ourbusinessmodel.html), and our community [_here_](https://kvshvlin.github.io/yourmailproject/ourcommunity.html). If there’s something you don’t see here that you’d like to know, then you can @yourmailproject on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>.
 
