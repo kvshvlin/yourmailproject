@@ -14,7 +14,7 @@ Step 4. Mail your illustrated postcards to us as soon as possible via speed post
 
 Step 5. Albeit the original author reserves all copyrights, after we receive complete illustrated postcards we use numbered envelopes with Your Mail Project brand assets to curate the project.
 
-Step 6. As a result, every handmade illustrated postcard is unique i.e. no illustration will ever be printed, published like a magazine, reprinted, or remade, so every customer gets an exclusive product that they can send to friends and family via India Post with / without a message.
+Step 6. Every customer gets an exclusive product that will never be replicated in analog or digital or mixed formats, and can be sent to friends and family via India Post with / without an accompanying message.
 
 Step 7. We offer unique pricing for handmade illustrated postcards at flea markets / offline sales, offer the illustrator's selling price on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>, and offer subscriptions via <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">Patreon</a>.
 
