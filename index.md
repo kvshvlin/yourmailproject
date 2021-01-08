@@ -28,5 +28,5 @@ You can read more about our business model [_here_](https://kvshvlin.github.io/y
 
 We hope you love what we do.
 
-> "Nothing boots as fast as pen and paper."
+> "Nothing boots as fast as pen and paper."  
 > Sir Norman Robert Foster.
