@@ -12,7 +12,7 @@ Step 3. Share work in progress images to your Instagram stories and tag our Inst
 
 Step 4. Mail your illustrated postcards to us as soon as possible via speed post along with your preferred selling price for each.
 
-Step 5. Albeit the original author reserve all copyrights, after we receive complete illustrated postcards we use numbered envelopes with Your Mail Project brand assets to curate the project.
+Step 5. Albeit the original author reserves all copyrights, after we receive complete illustrated postcards we use numbered envelopes with Your Mail Project brand assets to curate the project.
 
 Step 6. As a result, every handmade illustrated postcard is unique i.e. no illustration will ever be printed, published like a magazine, reprinted, or remade, so every customer gets an exclusive product that they can send to friends and family via India Post with / without a message.
 
