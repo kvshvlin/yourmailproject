@@ -9,7 +9,7 @@ minimal:
   social_links: 
     github: kushalsamant
     instagram: yourmailproject
-    linkedin: kvshvlin
+    linkedin: kushalsamant
     youtube_channel: https://www.youtube.com/channel/UCQCznCqUhALucLSk6N8ROPA
 plugins: 
   - jekyll-feed
