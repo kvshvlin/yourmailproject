@@ -24,7 +24,9 @@ Step 9. We handle complaints, inventory, operations, packaging, return orders, s
 
 Step 10. Every handmade illustrated postcard is available for sale without the guarantee that it will sell, so all payouts are only valid for sold goods, and only unsold goods can be returned to the original author on demand.
 
-You can read more about our business model [_here_](https://kushalsamant.github.io/yourmailproject/ourbusinessmodel.html), and our community [_here_](https://kushalsamant.github.io/yourmailproject/ourcommunity.html). If there’s something you don’t see here that you’d like to know, then you can @yourmailproject on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>.
+You can read more about our business model [_here_](https://kushalsamant.github.io/yourmailproject/ourbusinessmodel.html), and our community [_here_](https://kushalsamant.github.io/yourmailproject/ourcommunity.html).
+
+If there’s something you don’t see here that you’d like to know, then you can @yourmailproject on <a href="https://www.twitter.com/yourmailproject" target="_blank">Twitter</a>.
 
 We hope you love what we do.
 
