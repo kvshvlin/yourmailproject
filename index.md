@@ -1,6 +1,6 @@
 **Since 2020**.
 
-This website is built using <a href="https://www.github.com/kvshvlin" target="_blank">GitHub</a> to do a bit to preserve a web that does not compromise on your time, privacy, and bandwidth.
+This website is built using <a href="https://www.github.com/kushalsamant" target="_blank">GitHub</a> to do a bit to preserve a web that does not compromise on your time, privacy, and bandwidth.
 
 Your Mail Project keep things simple, thoughtful, and transparent.
 
