@@ -6,9 +6,11 @@ Anbazhagan, Eyamuna.
 Bafna, Raina.  
 Bhatnagar, Sonia.  
 Das, Ishita.  
+Deshpande, Amrut.  
 Gabajiwala, Tasneem.  
 Jain, Deeksha.  
 Jhalani, Stuti.  
+Kalra, Sukhda.  
 Kaur, Divnoor.  
 Malik, Gazala.  
 Patade, Yugandhar.  
