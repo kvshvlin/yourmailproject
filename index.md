@@ -12,7 +12,7 @@ Step 3. Share work in progress images to your Instagram stories and tag our Inst
 
 Step 4. Mail your illustrated postcards to us as soon as possible via speed post along with your preferred selling price for each.
 
-Step 5. Albeit the original author reserves all copyrights, after we receive an illustrator's submission we use numbered posts and ship envelopes with Your Mail Project brand assets to curate the project.
+Step 5. Albeit the original author reserves all copyrights, after we receive an illustrator's submission we use Your Mail Project brand assets to curate the project thenceforth.
 
 Step 6. Every customer gets an exclusive product that will never be replicated in analog or digital or mixed formats, and can be sent to friends and family via India Post with / without an accompanying message.
 
