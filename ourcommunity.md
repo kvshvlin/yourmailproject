@@ -5,6 +5,7 @@ Here's the list of Illustrators who signed up to Your Mail Project.
 Anbazhagan, Eyamuna.  
 Bafna, Raina.  
 Bhatnagar, Sonia.  
+Buragohain, Denim.  
 Das, Ishita.  
 Deshpande, Amrut.  
 Gabajiwala, Tasneem.  
