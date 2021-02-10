@@ -26,8 +26,8 @@ Step 10. Every handmade illustrated postcard is available for sale without the g
 
 You can read more about our business model [_here_](https://kushalsamant.github.io/yourmailproject/ourbusinessmodel.html), and our community [_here_](https://kushalsamant.github.io/yourmailproject/ourcommunity.html). If there’s something you don’t see here that you’d like to know, then you can @yourmailproject on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>.
 
-<a href="https://www.instagram.com/yourmailproject" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" style="width:20px"></a>
-<a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank"><img src="/assets/img/logopatreon.png" alt="Patreon" style="width:20px"></a>
+<a href="https://www.instagram.com/yourmailproject" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" style="width:100px"></a>
+<a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank"><img src="/assets/img/logopatreon.png" alt="Patreon" style="width:100px"></a>
 
 We hope you love what we do.
 
