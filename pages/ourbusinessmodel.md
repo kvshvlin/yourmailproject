@@ -1,34 +1,36 @@
-**Here's how we pay an illustrator**.
+**Our business model**.
 
 We are sharing the following information to demystify our business model.
 
 The package of 11 blank postcards costs,  
-Rs. 05.5 for the blank postcards +  
-Rs. 05.0 for the envelope +  
-Rs. 41.5 for speed post  
-= Rs. 52.0.  
+Rs. 05.50 for the blank postcards +  
+Rs. 05.00 for the envelope +  
+Rs. 41.50 for speed post  
+= Rs. 52.00.  
 **= Cost A (CA)**.
 
 Returning 10 handmade illustrated postcards to our address should approximately cost,  
-Rs. 05.0 for the envelope +  
-Rs. 41.5 for speed post  
-= Rs. 46.5.  
+Rs. 05.00 for the envelope +  
+Rs. 41.50 for speed post  
+= Rs. 46.50.  
 **= Cost B (CB)**.
 
 Making 1 handmade illustrated postcard shop-ready should approximately cost us,  
 (CA + CB) / 10 postcards in the package  
-= (Rs. 52.0 + Rs. 46.5) / 10  
-= Rs. 98.5 / 10  
-= Rs. 09.85  
+= (Rs. 52.00 + Rs. 46.50) / 10  
+= Rs. 98.50 / 10  
+= Rs. 09.85.  
 **= Cost Price (CP)**.
 
-Since illustrators have to use their own materials, the cost of materials used for creating the illustrations, the cost of labour, profit margins, PLUS any particulars deemed necessary, are values that are unknown to us. We request all illustrators to inform us of their **preferred selling price (CZ)** by attaching a note in their consignment of illustrated postcards.
+Illustrators have to use their own materials to create the illustrations. Various cost borne by the illustrator i.e., the cost of labour, cost of materials, profit margins, PLUS any particulars deemed necessary, are values that are unknown to us.
+**= Cost B (CB)**.
 
-Once a sale happens, we pay an illustrator on a first priority basis.
 
-Here's how we pay an illustrator:  
-First, We sell a postcard in the market for Rs. X.  
-**Please note that the customer decides the value of X**.
+We request all illustrators to inform us of their **preferred selling price (CZ)** by attaching a note in their consignment of illustrated postcards. Once a sale happens, we pay an illustrator on a first priority basis.
+
+Here's how we pay an illustrator:
+**Please note that the customer decides the value of X**.  
+First, We sell a postcard in the market for Rs. X.
 
 If X is lesser than CZ,  
 then we pay the illustrator Rs. X.  
