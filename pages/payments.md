@@ -28,9 +28,7 @@ We request all illustrators to calculate their preferred selling price for every
 
 We sell a postcard in the market for the **Billing Price (X)**. Please note that the value of X is determined on a case-by-case basis.
 
-Once a sale happens, we pay an illustrator on a first priority basis.
-
-Here's how we pay an illustrator.
+Once a sale happens, we pay an illustrator on a first priority basis. Here's how we pay an illustrator.
 
 **Case 1**.  
 Equation: If X < PSP, Illustrator's earnings = X; Your Mail Project's earnings = Rs. 00.00.
