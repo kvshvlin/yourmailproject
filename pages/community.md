@@ -1,6 +1,6 @@
 **Our community**.
 
-Here's the list of Illustrators who signed up to Your Mail Project.
+Here's the list of Illustrators we love working with.
 
 Anbazhagan, Eyamuna.  
 Bafna, Raina.  
