@@ -9,24 +9,22 @@ Rs. 41.50 for speed post
 = Rs. 52.00.  
 **= Cost A (CA)**.
 
-Returning 10 handmade illustrated postcards to our address should approximately cost,  
+Illustrators have to use their own materials to create the illustrations.
+
+Shipping 10 handmade illustrated postcards to our address should approximately cost,  
 Rs. 05.00 for the envelope +  
 Rs. 41.50 for speed post  
 = Rs. 46.50.  
 **= Cost B (CB)**.
 
-Making 1 handmade illustrated postcard shop-ready should approximately cost us,  
+Making 1 handmade illustrated postcard shop-ready should approximately cost,  
 (CA + CB) / 10 postcards in the package  
 = (Rs. 52.00 + Rs. 46.50) / 10  
 = Rs. 98.50 / 10  
 = Rs. 09.85.  
 **= Cost Price (CP)**.
 
-Illustrators have to use their own materials to create the illustrations. Various cost borne by the illustrator i.e., the cost of labour, cost of materials, profit margins, PLUS any particulars deemed necessary, are values that are unknown to us.
-**= Cost Q (CQ)**.
-
-
-We request all illustrators to inform us of their **preferred selling price (CZ)** by attaching a note in their consignment of illustrated postcards. Once a sale happens, we pay an illustrator on a first priority basis.
+Various costs borne by an illustrator including but not limited to the cost of labour, cost of materials, profit margins, PLUS any particulars deemed necessary, are values that are unknown to us. We request all illustrators to include their expenses they bear. This will help them calculate their **preferred selling price (CZ)**. All ill by attaching a note in their consignment of illustrated postcards. Once a sale happens, we pay an illustrator on a first priority basis.
 
 Here's how we pay an illustrator:
 **Please note that the customer decides the value of X**.  
