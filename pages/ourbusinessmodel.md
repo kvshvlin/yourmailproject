@@ -26,36 +26,28 @@ Since illustrators have to use their own materials, the cost of materials used f
 
 We request all illustrators to inform us of their preferred selling price (CZ) by attaching a note in their consignment of illustrated postcards.
 
-This is how we pay an illustrator:
+Once a sale happens, we pay an illustrator on a first priority basis.  
+Here's how we pay an illustrator:
 
-- We sell a postcard in the market for Rs. X. The customer decides the value of X.
-- If X is lesser than CZ, then we pay the illustrator Rs. X. We make no profit here.
-- If X is greater than CZ, then we pay the illustrator Rs. CZ, and 
+First, We sell a postcard in the market for Rs. X.  
+Please note that the customer decides the value of X.
 
-We hope the following example illustrates our offer where a postcard sells at a price, say Rs. X.
+If X is lesser than CZ,  
+then we pay the illustrator Rs. X.  
+Please note that we make Rs. 00 profit here.
 
-The illustrator will earn, 
-Rs. X / 2
+If X is greater than CZ,  
+then we pay the illustrator Rs. CZ.  
+Please note that we make Rs. (X - CZ) profit here.
 
-If illustrator's preferred selling price for the postcard.
-If X > preferred selling price, we pay the illustrator
+If in any case the value of CZ is not informed to us,  
+then we pay the illustrator Rs. (X / 2).  
+Please note that we make Rs. ([X / 2] - CP) profit here.
 
-We pay an illustrator on a first priority basis.
-
-
-1. Preferred Option: We will pay an illlustrator the preferred selling price and keep the rest of the profit. 
-
-Once a sale happens, every illustrator get paid via one of these two exclusive deals.
-
-1. If we are informed about the preferred selling price:
-A. We pay the illustrator the actual selling price. preferred selling price or the actual selling price. We do not make a profit in this method unless the actual selling price is more than the preferred selling price.  
-
-2. If we are NOT informed about the preferred selling price, then we divide the actual selling price into 2 parts. One part is paid to the illustrator, pay one with the illustrators and  half of the selling price to the illustrator, so 
-
-If a pack of 10 postcards sells for Rs. 1000, then we will pay the artists:
+Example, If a pack of 10 postcards sells for Rs. 1000, then we will pay the illustrator:  
 Rs. 1000.0 / 2  
 = Rs. 500.0.  
-Whereas we will pay ourselves
+Whereas we will pay ourselves,  
 = (Rs. 1000.0 / 2) - Rs. 98.5  
 = Rs. 401.5.
 
