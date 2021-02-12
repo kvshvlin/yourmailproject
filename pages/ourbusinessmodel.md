@@ -26,6 +26,12 @@ Since illustrators have to use their own materials, the cost of materials used f
 
 We request all illustrators to inform us of their preferred selling price (CZ) by attaching a note in their consignment of illustrated postcards.
 
+This is how we pay an illustrator:
+
+- We sell a postcard in the market for Rs. X. The customer decides the value of X.
+- If X is lesser than CZ, then we pay the illustrator Rs. X. We make no profit here.
+- If X is greater than CZ, then we pay the illustrator Rs. CZ, and 
+
 We hope the following example illustrates our offer where a postcard sells at a price, say Rs. X.
 
 The illustrator will earn, 
