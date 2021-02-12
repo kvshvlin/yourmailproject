@@ -6,7 +6,8 @@ The package of 11 blank postcards costs,
 Rs. 05.5 for the blank postcards +  
 Rs. 05.0 for the envelope +  
 Rs. 41.5 for speed post  
-= Rs. 52.0.
+= Rs. 52.0.  
+= initial price (IP).
 
 Returning 10 handmade illustrated postcards to our address should approximately cost,  
 Rs. 05.0 for the envelope +  
@@ -16,7 +17,8 @@ Rs. 41.5 for speed post
 Making 1 handmade illustrated postcard shop-ready should approximately cost us,  
 (Rs. 52.0 + Rs. 46.5) / 10 postcards in the package  
 = Rs. 98.5 / 10  
-= Rs. 09.85.
+= Rs. 09.85  
+= cost price (CP).
 
 Since illustrators have to use their own materials, the cost of materials used for creating the illustrations, the cost of labour, profit margins, PLUS any particulars deemed necessary, are values that are unknown to us.
 
@@ -25,7 +27,7 @@ We request all illustrators to inform us of their preferred selling price (PSP) 
 We hope the following example illustrates our offer where a postcard sells at a price, say Rs. X.
 
 The illustrator will earn, 
-Rs. X - 
+Rs. X / 2
 
 If illustrator's preferred selling price for the postcard.
 If X > preferred selling price, we pay the illustrator
