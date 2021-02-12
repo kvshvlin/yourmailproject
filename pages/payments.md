@@ -24,11 +24,12 @@ Making 1 handmade illustrated postcard shop-ready should approximately cost,
 = Rs. 09.85.  
 **= Cost Price (CP)**.
 
-Various costs borne by an illustrator including but not limited to the cost of labour, cost of materials, profit margins, PLUS any particulars deemed necessary, are values that are unknown to us. We request all illustrators to include their expenses they bear. This will help them calculate their **preferred selling price (CZ)**. All ill by attaching a note in their consignment of illustrated postcards. Once a sale happens, we pay an illustrator on a first priority basis.
+We cannot be certain of values such as (including but not limited to) the cost of labour, cost of materials, expected profit, PLUS any particulars deemed necessary. Hence we request all illustrators to do the math and tell us their **preferred selling price (CZ)** by attaching a note in their consignment of 10 handmade illustrated postcards.
 
-Here's how we pay an illustrator:
-**Please note that the customer decides the value of X**.  
-First, We sell a postcard in the market for Rs. X.
+**Once a sale happens, we pay an illustrator on a first priority basis**.
+
+We sell a postcard in the market for Rs. X which is decided through negotiation and bargaining.
+Please note that the customer decides the value of X**.  
 
 If X is lesser than CZ,  
 then we pay the illustrator Rs. X.  
