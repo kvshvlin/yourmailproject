@@ -33,7 +33,9 @@ Once a sale happens, we pay an illustrator on a first priority basis.
 
 **Here's how we pay an illustrator**.
 
-**CASE 1 | [If X < PSP, Illustrator's earnings = X; Your Mail Project's earnings = Rs. 00.00]**.
+**CASE 1**.
+
+[If X < PSP, Illustrator's earnings = X; Your Mail Project's earnings = Rs. 00.00].
 
 If X is lesser than PSP,  
 then we pay the illustrator the value of X.  
@@ -44,7 +46,9 @@ then X < PSP;
 Illustrator's earnings = Rs. 100.00;  
 Your Mail Project's earnings = Rs. 00.00.
 
-**CASE 2 | [If X > PSP, Illustrator's earnings = PSP; Your Mail Project's earnings = (X - PSP)]**.
+**CASE 2**.
+
+[If X > PSP, Illustrator's earnings = PSP; Your Mail Project's earnings = (X - PSP)].
 
 If X is greater than PSP,  
 then we pay the illustrator the value of PSP.  
@@ -55,7 +59,9 @@ then X > PSP;
 Illustrator's earnings = Rs. 100.00;  
 Your Mail Project's earnings = Rs. 01.00.
 
-**CASE 3 | [If PSP = N/A, Illustrator's earnings = (X / 2); Your Mail Project's earnings = ([X / 2] - CP)]**.
+**CASE 3**.
+
+[If PSP = N/A, Illustrator's earnings = (X / 2); Your Mail Project's earnings = ([X / 2] - CP)].
 
 If in any case the value of PSP is not informed to us,  
 then we pay the illustrator the value of (X / 2).  
