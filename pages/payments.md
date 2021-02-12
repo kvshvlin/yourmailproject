@@ -62,5 +62,7 @@ Example, If X = Rs. 100.00; PSP = N/A;
 then Illustrator's earnings = Rs. (100.00 / 2) = Rs. 50;  
 Your Mail Project's earnings = Rs. ([100.00 / 2] - Rs. 09.85) = Rs. 40.15.
 
+That's all folks. :))
+
 > "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."  
 > Alan Kay.
