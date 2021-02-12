@@ -30,7 +30,7 @@ We sell a postcard in the market for the **Billing Price (X)**. Please note that
 
 Once a sale happens, we pay an illustrator on a first priority basis.
 
-**Here's how we pay an illustrator**.
+Here's how we pay an illustrator:
 
 **Case 1**.  
 Equation: If X < PSP, Illustrator's earnings = X; Your Mail Project's earnings = Rs. 00.00.
