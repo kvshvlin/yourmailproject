@@ -1,4 +1,4 @@
-**Here's how we pay an illustrator**.
+**Here's how we handle payments**.
 
 We are sharing the following information to demystify our business model.
 
@@ -24,22 +24,22 @@ Making 1 handmade illustrated postcard shop-ready should approximately cost,
 = Rs. 09.85.  
 **= Cost Price (CP)**.
 
-We cannot be sure of certain values (including but not limited to) the cost of labour, cost of materials, expected profit, PLUS any particulars deemed necessary. Hence we request all illustrators to calculate their preferred selling price for every postcard they illustrate. They can send a note alongwith their handmade illustrated postcards to inform us about their **preferred selling price (CZ)**.
+We cannot be sure of certain values (including but not limited to) the cost of labour, cost of materials, expected profit, PLUS any particulars deemed necessary. Hence we request all illustrators to calculate their preferred selling price for every postcard they illustrate. They can send a note alongwith their handmade illustrated postcards to inform us about their **Preferred Selling Price (PSP)**.
 
-**Once a sale happens, we pay an illustrator on a first priority basis**.
+We sell a postcard in the market for Rs. X.
+Please note that the value of X is determined circumstantial.  
 
-We sell a postcard in the market for Rs. X which is decided through negotiation and bargaining.
-Please note that the customer decides the value of X**.  
+Once a sale happens, we pay an illustrator on a first priority basis.
 
-If X is lesser than CZ,  
+If X is lesser than PSP,  
 then we pay the illustrator Rs. X.  
 Please note that we make Rs. 00 profit here.
 
-If X is greater than CZ,  
-then we pay the illustrator Rs. CZ.  
-Please note that we make Rs. (X - CZ) profit here.
+If X is greater than PSP,  
+then we pay the illustrator Rs. PSP.  
+Please note that we make Rs. (X - PSP) profit here.
 
-If in any case the value of CZ is not informed to us,  
+If in any case the value of PSP is not informed to us,  
 then we pay the illustrator Rs. (X / 2).  
 Please note that we make Rs. ([X / 2] - CP) profit here.
 
