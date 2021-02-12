@@ -1,4 +1,4 @@
-**Our business model**.
+**Here's how we pay an illustrator**.
 
 We are sharing the following information to demystify our business model.
 
@@ -7,30 +7,28 @@ Rs. 05.5 for the blank postcards +
 Rs. 05.0 for the envelope +  
 Rs. 41.5 for speed post  
 = Rs. 52.0.  
-= Cost A (CA).
+**= Cost A (CA)**.
 
 Returning 10 handmade illustrated postcards to our address should approximately cost,  
 Rs. 05.0 for the envelope +  
 Rs. 41.5 for speed post  
 = Rs. 46.5.  
-= Cost B (CB).
+**= Cost B (CB)**.
 
 Making 1 handmade illustrated postcard shop-ready should approximately cost us,  
 (CA + CB) / 10 postcards in the package  
 = (Rs. 52.0 + Rs. 46.5) / 10  
 = Rs. 98.5 / 10  
 = Rs. 09.85  
-= Cost Price (CP).
+**= Cost Price (CP)**.
 
-Since illustrators have to use their own materials, the cost of materials used for creating the illustrations, the cost of labour, profit margins, PLUS any particulars deemed necessary, are values that are unknown to us.
+Since illustrators have to use their own materials, the cost of materials used for creating the illustrations, the cost of labour, profit margins, PLUS any particulars deemed necessary, are values that are unknown to us. We request all illustrators to inform us of their **preferred selling price (CZ)** by attaching a note in their consignment of illustrated postcards.
 
-We request all illustrators to inform us of their preferred selling price (CZ) by attaching a note in their consignment of illustrated postcards.
+Once a sale happens, we pay an illustrator on a first priority basis.
 
-Once a sale happens, we pay an illustrator on a first priority basis.  
-Here's how we pay an illustrator:
-
+Here's how we pay an illustrator:  
 First, We sell a postcard in the market for Rs. X.  
-Please note that the customer decides the value of X.
+**Please note that the customer decides the value of X**.
 
 If X is lesser than CZ,  
 then we pay the illustrator Rs. X.  
