@@ -20,9 +20,14 @@ Making 1 handmade illustrated postcard shop-ready should approximately cost us,
 
 Since illustrators have to use their own materials, the cost of materials used for creating the illustrations, the cost of labour, profit margins, PLUS any particulars deemed necessary, are values that are unknown to us.
 
-We request all illustrators to inform us about their preferred selling price by attaching a note in their consignment of illustrated postcards.
+We request all illustrators to inform us about their preferred selling price by attaching a note in their consignment of illustrated postcards. We will not sell a postcard without this information.
 
-Once a sale happens, we pay half of the selling price to the illustrator, so every illustrator gets an exclusive deal.
+Once a sale happens, every illustrator get paid via one of these two exclusive deals.
+
+1. If we are informed about the preferred selling price:
+A. We pay the illustrator the actual selling price. preferred selling price or the actual selling price. We do not make a profit in this method unless the actual selling price is more than the preferred selling price.  
+
+2. If we are NOT informed about the preferred selling price, then we divide the actual selling price into 2 parts. One part is paid to the illustrator, pay one with the illustrators and  half of the selling price to the illustrator, so 
 
 I hope this example illustrates our offer.
 
