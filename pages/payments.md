@@ -27,7 +27,7 @@ Making 1 handmade illustrated postcard shop-ready should approximately cost,
 We cannot be sure of certain values (including but not limited to) the cost of labour, cost of materials, expected profit, PLUS any particulars deemed necessary. Hence we request all illustrators to calculate their preferred selling price for every postcard they illustrate. They can send a note alongwith their handmade illustrated postcards to inform us about their **Preferred Selling Price (PSP)**.
 
 We sell a postcard in the market for the **Billing Price (X)**.  
-Please note that the value of X is determined case-by-case basis.
+Please note that the value of X is determined on a case-by-case basis.
 
 Once a sale happens, we pay an illustrator on a first priority basis.
 
