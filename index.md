@@ -4,7 +4,7 @@ If you think this website is unlike others, don't fret. This website is intentio
 
 Your Mail Project keep things simple, thoughtful, and transparent.
 
-Step 1. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form, we will use your postal address and phone number to send you 11 blank postcards to illustrate upon.
+Step 1. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form, we will use your postal address and phone number to send you 11 blank postcards to illustrate upon. You can view names of illustrators who signed up to be a part of our community [_here_](https://kushalsamant.github.io/yourmailproject/pages/community.html).
 
 Step 2. After you receive these 11 postcards, illustrate 10 postcards any how you fancy and use 1 postcard to test your art materials.
 
@@ -16,15 +16,13 @@ Step 5. Albeit the original author reserves all copyrights, after we receive an 
 
 Step 6. Every customer gets an exclusive product that will never be replicated in analog format, and can be sent to friends and family via India Post with / without an accompanying message.
 
-Step 7. We offer unique pricing for handmade illustrated postcards at flea markets / offline sales, illustrator's preferred selling price on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>, $1 / postcard pricing on <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">Patreon</a> subscriptions, and illustrated merchandise on <a href="https://www.society6.com/yourmailproject" target="_blank">Society6</a>.
+Step 7. Once a sale happens, we pay the illustrator. Read about how we handle payments [_here_](https://kushalsamant.github.io/yourmailproject/pages/payments.html).
 
-Step 8. Once a sale happens, we pay half of the selling price to the illustrator, so every illustrator gets an exclusive deal.
+Step 8. We offer case-by-case basis pricing for handmade illustrated postcards at flea markets / offline sales, the illustrator's preferred selling price on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>, $1 pricing for each postcard for subscriptions on <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">Patreon</a>, and merchandise on <a href="https://www.society6.com/yourmailproject" target="_blank">Society6</a>.
 
 Step 9. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more.
 
 Step 10. Every handmade illustrated postcard is available for sale without the guarantee that it will sell, so all payouts are only valid for sold goods, and only unsold goods can be returned to the original author on demand.
-
-You can read about how we handle payments [_here_](https://kushalsamant.github.io/yourmailproject/pages/payments.html), and our community [_here_](https://kushalsamant.github.io/yourmailproject/pages/community.html).
 
 If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html">here</a>.
 
