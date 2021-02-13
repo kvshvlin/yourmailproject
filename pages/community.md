@@ -1,6 +1,6 @@
 **Our community**.
 
-Here's the list of Illustrators we love working with.
+Here's the list of illustrators we love to follow.
 
 Anbazhagan, Eyamuna.  
 Bafna, Raina.  
