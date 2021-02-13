@@ -4,7 +4,7 @@ If you think this website is unlike others, don't fret. This website is intentio
 
 Your Mail Project keep things simple, thoughtful, and transparent.
 
-Step 1. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form, we will use your postal address and phone number to send you 11 blank postcards to illustrate upon. You can view names of illustrators who signed up to be a part of our community [_here_](https://kushalsamant.github.io/yourmailproject/pages/community.html).
+Step 1. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form, we will use your postal address and phone number to send you 11 blank postcards to illustrate upon. You can view the list of illustrators we love working with [_here_](https://kushalsamant.github.io/yourmailproject/pages/community.html).
 
 Step 2. After you receive these 11 postcards, illustrate 10 postcards any how you fancy and use 1 postcard to test your art materials.
 
