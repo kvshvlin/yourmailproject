@@ -26,10 +26,6 @@ Step 10. Every handmade illustrated postcard is available for sale without the g
 
 If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html">here</a>.
 
-<a href="https://www.instagram.com/yourmailproject" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" style="width:30px"></a>
-<a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank"><img src="/assets/img/logopatreon.png" alt="Patreon" style="width:30px"></a>
-<a href="https://www.society6.com/yourmailproject" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" style="width:30px"></a>
-
 We hope you love what we do.
 
 > "Nothing boots as fast as pen and paper."  
