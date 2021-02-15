@@ -2,6 +2,10 @@
 
 If you think this website is unlike others, don't fret. This website is intentionally built using <a href="https://github.com/kushalsamant/yourmailproject" target="_blank">GitHub</a> to do a bit to preserve a web that does not compromise on your time, privacy, and bandwidth.
 
+<a href="https://www.instagram.com/yourmailproject" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" style="width:30px"></a>
+<a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank"><img src="/assets/img/logopatreon.png" alt="Patreon" style="width:30px"></a>
+<a href="https://www.society6.com/yourmailproject" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" style="width:30px"></a>
+
 Your Mail Project keep things simple, thoughtful, and transparent.
 
 Step 1. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form, we will use your postal address and phone number to send you 11 blank postcards to illustrate upon. We will add your name to our community of illustrators [_here_](https://kushalsamant.github.io/yourmailproject/pages/community.html).
