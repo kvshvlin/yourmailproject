@@ -2,7 +2,7 @@
 
 Your Mail Project keep things simple, thoughtful, and transparent.
 
-Step 1. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form, we will use your postal address and phone number to send you 11 blank postcards to illustrate upon. We will add your name to our community of illustrators [_here_](https://kushalsamant.github.io/yourmailproject/pages/community.html).
+Step 1. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" target="_blank">this</a> form, we will use your postal address and phone number to send you 11 blank postcards to illustrate upon. We will add your name to our community of illustrators [_here_](https://kushalsamant.github.io/yourmailproject/community.html).
 
 Step 2. After you receive these 11 postcards, illustrate 10 postcards anyhow you fancy and use 1 postcard to test your art materials.
 
@@ -14,7 +14,7 @@ Step 5. Albeit the original author reserves all copyrights, after we receive an 
 
 Step 6. Every customer gets an exclusive product that will never be replicated in analog format and can be sent to friends and family via India Post with / without an accompanying message.
 
-Step 7. Once a sale happens, we pay the illustrator. Read about how we handle payments [_here_](https://kushalsamant.github.io/yourmailproject/pages/payments.html).
+Step 7. Once a sale happens, we pay the illustrator. Read about how we handle payments [_here_](https://kushalsamant.github.io/yourmailproject/payments.html).
 
 Step 8. We offer case-by-case basis pricing for handmade illustrated postcards at flea markets / offline sales, the illustrator's preferred selling price on <a href="https://www.instagram.com/yourmailproject" target="_blank">Instagram</a>, $1 pricing for each postcard for subscriptions on <a href="https://www.patreon.com/yourmailproject?fan_landing=true" target="_blank">Patreon</a>, and merchandise on <a href="https://www.society6.com/yourmailproject" target="_blank">Society6</a>.
 
