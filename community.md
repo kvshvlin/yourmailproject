@@ -27,6 +27,7 @@ Shah, Avani.
 Sharma, Shivani.  
 Shivaraj, Hemanth.  
 Suryawanshi, Pranali.  
+Tandon, Shivani.  
 Thakkar, Niyati.
 
 > "Race... It is a small part of what we do... The rest of the time... We practice."  
