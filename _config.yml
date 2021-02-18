@@ -3,7 +3,7 @@ description: "Official Site / Your Mail Project"
 email: yourmailproject@gmail.com
 google_analytics: UA-105795582-1
 keywords: "Architecture, CSS, HTML, Javascript, People, Places, Visual Art, Web"
-logo: /assets/img/logoyourmailproject.jpg
+logo: /assets/img/logoyourmailproject.png
 minimal: 
   date_format: "%b %-d, %Y"
   social_links: 
