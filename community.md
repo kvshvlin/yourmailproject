@@ -3,6 +3,7 @@
 Here's the list of illustrators we love to follow.
 
 Anbazhagan, Eyamuna.  
+Baddpujari, Samruddhi.  
 Bafna, Raina.  
 Bhatnagar, Sonia.  
 Buragohain, Denim.  
@@ -23,6 +24,7 @@ Salunke, Aditi.
 Salvi, Ashwini.  
 Samant, Kushal.  
 Samant, Mitalee.  
+Satish, Dhanya.  
 Shah, Avani.  
 Sharma, Shivani.  
 Shivaraj, Hemanth.  
