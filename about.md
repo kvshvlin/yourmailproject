@@ -1,6 +1,6 @@
 **About**.
 
-Your Mail Project keep things simple, thoughtful, and transparent.
+Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 1**. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank">this</a> form, we will use your postal address and phone number to send you 11 blank postcards to illustrate upon. We will add your name to our community of illustrators [_here_](https://kushalsamant.github.io/yourmailproject/community.html).
 
