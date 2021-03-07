@@ -6,7 +6,7 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 2**. After you receive these 11 postcards, illustrate 10 postcards anyhow you fancy and use 1 postcard to test your art materials.
 
-**Step 3**. Share work in progress images to your Instagram stories and tag our Instagram account @yourmailproject, or make an Instagram post and use hashtag #yourmailproject.
+**Step 3**. Share work in progress images to your Instagram stories and tag our <a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Instagram</a> account @yourmailproject, or make an Instagram post and use hashtag #yourmailproject.
 
 **Step 4**. Mail your illustrated postcards to us as soon as possible via speed post along with your preferred selling price for each.
 
@@ -16,7 +16,7 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 7**. Once a sale happens, we pay the illustrator. Read about how we handle payments [_here_](https://kushalsamant.github.io/yourmailproject/payments.html).
 
-**Step 8**. We offer case-by-case basis pricing for handmade illustrated postcards at flea markets / offline sales, the illustrator's preferred selling price on <a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Instagram</a>, $1 pricing for each postcard for subscriptions on <a href="https://www.patreon.com/yourmailproject?fan_landing=true" rel="noopener noreferrer" target="_blank">Patreon</a>, and merchandise on <a href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6</a>.
+**Step 8**. We offer case-by-case basis pricing for handmade illustrated postcards at flea markets / offline sales, the illustrator's preferred selling price on <a href="https://gumroad.com/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad</a>, $1 pricing for each postcard for subscriptions on <a href="https://www.patreon.com/yourmailproject?fan_landing=true" rel="noopener noreferrer" target="_blank">Patreon</a>, and merchandise on <a href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6</a>.
 
 **Step 9**. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more.
 
