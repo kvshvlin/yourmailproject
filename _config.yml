@@ -10,6 +10,7 @@ minimal:
     github: kushalsamant
     instagram: yourmailproject
     linkedin: kushalsamant
+    twitter: kushalsamant_
     youtube_channel: https://www.youtube.com/channel/UCQCznCqUhALucLSk6N8ROPA
 plugins: 
   - jekyll-feed

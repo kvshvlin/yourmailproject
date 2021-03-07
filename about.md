@@ -14,15 +14,11 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 6**. Every customer gets an exclusive product that will never be replicated in analog format and can be sent to friends and family via India Post with / without an accompanying message.
 
-**Step 7**. Once a sale happens, we pay the illustrator. Read about how we handle payments [_here_](https://kushalsamant.github.io/yourmailproject/payments.html).
+**Step 7**. Once a sale happens, we pay the illustrator. Read about how we handle payments [_here_](https://kushalsamant.github.io/yourmailproject/payments.html) and pricing [_here_](https://kushalsamant.github.io/yourmailproject/pricing.html).
 
-**Step 8**. We offer case-by-case basis pricing for handmade illustrated postcards at flea markets / offline sales, the illustrator's preferred selling price on <a href="https://gumroad.com/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad</a>, $1 pricing for each postcard for subscriptions on <a href="https://www.patreon.com/yourmailproject?fan_landing=true" rel="noopener noreferrer" target="_blank">Patreon</a>, and merchandise on <a href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6</a>.
+**Step 8**. Every handmade illustrated postcard is available for sale without the guarantee that it will sell, so all payouts are only valid for sold goods, and only unsold goods can be returned to the original author on demand.
 
-**Step 9**. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more.
-
-**Step 10**. Every handmade illustrated postcard is available for sale without the guarantee that it will sell, so all payouts are only valid for sold goods, and only unsold goods can be returned to the original author on demand.
-
-If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html">here</a>.
+We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more. If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html">here</a>.
 
 We hope you love what we do.
 
