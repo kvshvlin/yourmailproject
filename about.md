@@ -6,13 +6,13 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 2**. After you receive these 11 postcards, illustrate 10 postcards anyhow you fancy and use 1 postcard to test your art materials.
 
-**Step 3**. Share work in progress images to your Instagram stories and tag our <a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Instagram</a> account @yourmailproject, or make an Instagram post and use hashtag #yourmailproject.
+**Step 3**. Share work-in-progress images to your Instagram stories and tag our <a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Instagram</a> account @yourmailproject, or make an Instagram post and use hashtag #yourmailproject.
 
 **Step 4**. Mail your illustrated postcards to us as soon as possible via speed post along with your preferred selling price for each.
 
 **Step 5**. Albeit the original author reserves all copyrights, after we receive an illustrator's submission we use Your Mail Project brand assets to curate the project thenceforth.
 
-**Step 6**. Every customer gets an exclusive product that will never be replicated in analog format and can be sent to friends and family via India Post with / without an accompanying message.
+**Step 6**. Every customer gets an exclusive product that will never be replicated in analog format and can be sent to friends and family via India Post with/without an accompanying message.
 
 **Step 7**. Once a sale happens, we pay the illustrator. Read about how we handle payments [_here_](https://kushalsamant.github.io/yourmailproject/payments.html) and pricing [_here_](https://kushalsamant.github.io/yourmailproject/pricing.html).
 
