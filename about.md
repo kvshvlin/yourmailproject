@@ -2,7 +2,7 @@
 
 Your Mail Project keeps things simple, thoughtful, and transparent.
 
-**Step 1**. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank">this</a> form, we will use your postal address and phone number to send you 11 blank postcards to illustrate upon. Please bear in mind that your name will be mentioned publicly on the bottom of this page.
+**Step 1**. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank">this</a> form, we will use your postal address alongwith your name, phone number, and pincode to send you 11 blank postcards to illustrate upon. **Note**: Please bear in mind that only your name will be mentioned publicly at the bottom of this page.
 
 **Step 2**. After you receive these 11 postcards, illustrate 10 postcards anyhow you fancy and use 1 postcard to test your art materials.
 
@@ -24,7 +24,7 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 11**. You can buy Your Mail Project merchandise on <a href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6</a>.
 
-**Step 12**. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more.
+**Step 12**. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more. If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html">here</a>.
 
 These are the names of the people who signed up to be a part of Your Mail Project. They gave us an opportunity to contribute to their lives.
 
@@ -57,8 +57,6 @@ Shivaraj, Hemanth.
 Suryawanshi, Pranali.  
 Tandon, Shivani.  
 Thakkar, Niyati.
-
-If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html">here</a>.
 
 We hope you love what we do.
 
