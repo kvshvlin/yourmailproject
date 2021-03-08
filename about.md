@@ -2,7 +2,9 @@
 
 Your Mail Project keeps things simple, thoughtful, and transparent.
 
-**Step 1**. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank">this</a> form, we will use your postal address alongwith your name, phone number, and pincode to send you 11 blank postcards to illustrate upon. **Note**: Please bear in mind that only your name will be mentioned publicly at the bottom of this page.
+**Step 1**. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank">this</a> form, we will use your postal address alongwith your name, phone number, and pincode to send you 11 blank postcards to illustrate upon.
+
+**Note**: Please bear in mind that only your name will be mentioned publicly at the bottom of this page.
 
 **Step 2**. After you receive these 11 postcards, illustrate 10 postcards anyhow you fancy and use 1 postcard to test your art materials.
 
