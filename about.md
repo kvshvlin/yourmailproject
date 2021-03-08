@@ -26,6 +26,8 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 12**. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more. If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html">here</a>.
 
+**Community**.
+
 These are the names of the people who signed up to be a part of Your Mail Project. They gave us an opportunity to contribute to their lives.
 
 Anbazhagan, Eyamuna.  
