@@ -72,5 +72,5 @@ We hope you love what we do.
 <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotypeform.png" alt="Typeform" style="width:30px"></a>
 <a href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" style="width:30px"></a>
 
-> "Nothing boots as fast as pen and paper."  
-> Sir Norman Robert Foster.
+> "The only way you survive on all these services is if you're groundbreaking. There's pressure to be groundbreaking, which is the greatest thing that's ever happened. It's a bizarre aspect of what's happened with all of these subscription services is everyone is trying to outdo each other by doing great things."  
+> Judd Apatow.
