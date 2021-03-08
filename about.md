@@ -6,7 +6,7 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 2**. After you receive these 11 postcards, illustrate 10 postcards anyhow you fancy and use 1 postcard to test your art materials.
 
-**Step 3**. Share work-in-progress images to your Instagram stories and tag our <a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Instagram</a> account @yourmailproject, or make an Instagram post and use hashtag #yourmailproject.
+**Step 3**. Share work-in-progress images to your Instagram stories and tag our <a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Instagram account @yourmailproject</a>, or make an Instagram post and use hashtag #yourmailproject.
 
 **Step 4**. Mail your illustrated postcards to us as soon as possible via speed post along with your preferred selling price for each.
 
