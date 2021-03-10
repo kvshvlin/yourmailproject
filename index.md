@@ -1,4 +1,6 @@
-This is the official website of Your Mail Project, those Handmade Illustrated Postcards from India. Your Mail Project keeps things simple, thoughtful, and transparent.
+This is the official website of Your Mail Project, those Handmade Illustrated Postcards from India.
+
+Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 1**. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank">this</a> form, we will use your postal address alongwith your name, phone number, and pincode to send you 11 blank postcards to illustrate upon.
 
