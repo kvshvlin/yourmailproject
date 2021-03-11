@@ -2,8 +2,6 @@ This is the official website of Your Mail Project, those Handmade Illustrated Po
 
 Your Mail Project keeps things simple, thoughtful, and transparent.
 
-**Here's how this works**.
-
 **Step 1**. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank">this</a> form, we will use your postal address alongwith your name, phone number, and pincode to send you 11 blank postcards to illustrate upon.
 
 **Note**: Please bear in mind that only your name will be mentioned publicly at the bottom of this page.
@@ -18,86 +16,15 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 6**. Every customer gets an exclusive product that will never be replicated in analog format and can be sent to friends and family via India Post with/without an accompanying message.
 
-**Step 7**. Once a sale happens, we pay the illustrator.
+**Step 7**. Once a sale happens, we pay the illustrator. Read about how we handle payments <a href="https://kushalsamant.github.io/yourmailproject/payments.html" rel="noopener noreferrer" target="_blank">here</a>.
 
 **Step 8**. Every handmade illustrated postcard is available for sale without the guarantee that it will sell, so all payouts to illustrators are only valid for sold goods, and only unsold goods can be returned to the original author on demand.
 
 **Step 9**. You can buy handmade illustrated postcards on <a href="https://www.mydukaan.io/yourmailproject" rel="noopener noreferrer" target="_blank">Dukaan</a>.
 
-**Step 10**. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more.
+**Step 10**. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more. If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html" rel="noopener noreferrer" target="_blank">here</a>.
 
-**Here's our business model**.
-
-We are sharing the following information to demystify our business model.
-
-The package of 11 blank postcards costs,  
-Rs. 05.50 for the blank postcards +  
-Rs. 05.00 for the envelope +  
-Rs. 41.50 for speed post  
-= Rs. 52.00.  
-**= Cost A (CA)**.
-
-Illustrators have to use their own materials to create the illustrations. We cannot be sure of certain values (including but not limited to) the cost of labour, cost of materials, expected profit, PLUS any particulars deemed necessary.
-
-Shipping 10 handmade illustrated postcards to our address should approximately cost,  
-Rs. 05.00 for the envelope +  
-Rs. 41.50 for speed post  
-= Rs. 46.50.  
-**= Cost B (CB)**.
-
-Making 1 handmade illustrated postcard shop-ready should approximately cost,  
-(CA + CB) / 10 postcards in the package  
-= (Rs. 52.00 + Rs. 46.50) / 10  
-= Rs. 98.50 / 10  
-= Rs. 09.85.  
-**= Cost Price (CP)**.
-
-We request all illustrators to calculate their preferred selling price for every postcard they illustrate. They should send a note alongwith their handmade illustrated postcards to inform us about their **Preferred Selling Price (PSP)**.
-
-We sell a postcard in the market for the **Billing Price (X)**.
-
-**Note**: Please bear in mind that the value of X is determined on a case-by-case basis.
-
-Once a sale happens, we pay an illustrator on a first priority basis.
-
-**Here's how we pay an illustrator**.
-
-**Case 1**.  
-Equation: If X < PSP, Illustrator's earnings = X; Your Mail Project's earnings = Rs. 00.00.
-
-If X is lesser than PSP,  
-then we pay the illustrator the value of X.  
-Please note that we make Rs. 00.00 profit here.
-
-Example, If X = Rs. 100.00; PSP = Rs. 101;  
-then X < PSP;  
-Illustrator's earnings = Rs. 100.00;  
-Your Mail Project's earnings = Rs. 00.00.
-
-**Case 2**.  
-Equation: If X > PSP, Illustrator's earnings = PSP; Your Mail Project's earnings = (X - PSP).
-
-If X is greater than PSP,  
-then we pay the illustrator the value of PSP.  
-Please note that we make Rs. (X - PSP) profit here.
-
-Example, If X = Rs. 101.00; PSP = Rs. 100;  
-then X > PSP;  
-Illustrator's earnings = Rs. 100.00;  
-Your Mail Project's earnings = Rs. 01.00.
-
-**Case 3**.  
-Equation: If PSP = N/A, Illustrator's earnings = (X / 2); Your Mail Project's earnings = ([X / 2] - CP).
-
-If in any case the value of PSP is not informed to us,  
-then we pay the illustrator the value of (X / 2).  
-Please note that we make Rs. ([X / 2] - CP) profit here.
-
-Example, If X = Rs. 100.00; PSP = N/A;  
-then Illustrator's earnings = Rs. (100.00 / 2) = Rs. 50;  
-Your Mail Project's earnings = Rs. ([100.00 / 2] - Rs. 09.85) = Rs. 40.15.
-
-**Here's our dear community**.
+**Community**.
 
 These are the names of the people who signed up to be a part of Your Mail Project. They gave us an opportunity to contribute to their lives.
 
@@ -131,8 +58,6 @@ Suryawanshi, Pranali.
 Tandon, Shivani.  
 Thakkar, Niyati.
 
-If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html" rel="noopener noreferrer" target="_blank">here</a>.
-
 We hope you love what we do.
 
 > "Nothing boots as fast as pen and paper."  
@@ -141,3 +66,4 @@ We hope you love what we do.
 <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotypeform.png" alt="Typeform" style="width:30px"></a>
 <a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" style="width:30px"></a>
 <a href="https://www.mydukaan.io/yourmailproject" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logodukaan.png" alt="Dukaan" style="width:30px"></a>
+
