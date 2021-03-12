@@ -1,5 +1,3 @@
-This is the official website of Your Mail Project, creators of those Handmade Illustrated Postcards from India.
-
 Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Here's how this works**.
