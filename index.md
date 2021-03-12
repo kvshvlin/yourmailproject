@@ -1,4 +1,4 @@
-This is the official website of Your Mail Project, those Handmade Illustrated Postcards from India.
+This is the official website of Your Mail Project, creators of those Handmade Illustrated Postcards from India.
 
 Your Mail Project keeps things simple, thoughtful, and transparent.
 
@@ -132,12 +132,5 @@ Tandon, Shivani.
 Thakkar, Niyati.
 
 We hope you love what we do.
-
-> "Nothing boots as fast as pen and paper."  
-> Sir Norman Robert Foster.
-
-<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotypeform.png" alt="Typeform" style="width:30px"></a>
-<a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" style="width:30px"></a>
-<a href="https://www.mydukaan.io/yourmailproject" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logodukaan.png" alt="Dukaan" style="width:30px"></a>
 
 If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html" rel="noopener noreferrer" target="_blank">here</a>.
