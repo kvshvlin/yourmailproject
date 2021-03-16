@@ -20,7 +20,7 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 8**. Every handmade illustrated postcard is available for sale without the guarantee that it will sell, so all payouts to illustrators are only valid for sold goods, and only unsold goods can be returned to the original author on demand.
 
-**Step 9**. You can buy handmade illustrated postcards on <a href="https://www.mydukaan.io/yourmailproject" rel="noopener noreferrer" target="_blank">Dukaan</a>.
+**Step 9**. You can buy handmade illustrated postcards online on <a href="https://gumroad.com/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad</a>.
 
 **Step 10**. We handle complaints, inventory, operations, packaging, return orders, shipping, suggestions, and more.
 
