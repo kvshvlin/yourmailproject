@@ -129,6 +129,6 @@ Suryawanshi, Pranali.
 Tandon, Shivani.  
 Thakkar, Niyati.
 
-We hope you love what we do.
+If there's something you don’t see here that you’d like to know, then you can join our Slack community using this <a href="https://join.slack.com/t/yourmailproject/shared_invite/zt-mmwv4scm-1RHUwuHiEQM0V~rxVX0BsA" rel="noopener noreferrer" target="_blank">invite</a>.
 
-If there’s something you don’t see here that you’d like to know, then you can get in touch <a href="https://kushalsamant.github.io/getintouch.html" rel="noopener noreferrer" target="_blank">here</a>.
+We hope you love what we do.
