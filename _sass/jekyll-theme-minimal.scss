@@ -25,7 +25,7 @@
   }
 
   .grid-container {
-    background-color: #ffffff;
+    background-color: #DFFF00;
     border-style: none;
     column-gap: 15px;
     display: grid;
@@ -37,7 +37,7 @@
   }
 
   body {
-    background-color: #ffffff;
+    background-color: #DFFF00;
     color: #494949;
     font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
@@ -48,26 +48,26 @@
   }
 
   blockquote {
-    border-left: 1px solid #ff00ff;
+    border-left: 1px solid #000000;
     font-style: italic;
     margin: 15px;
     padding: 15px;
   }
 
   a:hover {
-    background-color: #ff00ff;
-    color: #ffffff;
+    background-color: #000000;
+    color: #DFFF00;
     margin: 1px;
     padding: 1px;
     text-decoration: none;
   }
 
   a:focus {
-    border: 1px solid #ff00ff;
+    border: 1px solid #000000;
   }
 
   a {
-    color: #ff00ff;
+    color: #000000;
     text-decoration: none;
   }
 
@@ -104,7 +104,7 @@
   }
 
   header blockquote {
-    border-left: 1px solid #ff00ff;
+    border-left: 1px solid #000000;
     font-style: italic;
     margin: 15px;
     padding: 15px;
@@ -124,7 +124,7 @@ section p {
 }
 
 section.grid-item {
-  background-color: #ffffff;
+  background-color: #DFFF00;
   border-style: none;
   font-size: 15px;
   grid-column: 2 / 3;
@@ -145,22 +145,22 @@ section.grid-item {
 }
 
 .btn:hover {
-  background-color: #ff00ff;
-  border: 1px solid #ffffff;
+  background-color: #000000;
+  border: 1px solid #DFFF00;
   border-radius: 45px;
   margin: 15px;
-  color: #ffffff;
+  color: #DFFF00;
   padding: 15px;
   text-align: center;
   text-decoration: none;
 }
 
 .btn {
-  background-color: #ffffff;
-  border: 1px solid #ff00ff;
+  background-color: #DFFF00;
+  border: 1px solid #000000;
   border-radius: 45px;
   margin: 15px;
-  color: #ff00ff;
+  color: #000000;
   padding: 15px;
   text-align: center;
   text-decoration: none;
@@ -179,7 +179,7 @@ section.grid-item {
   }
 
   footer.grid-item {
-    background-color: #ffffff;
+    background-color: #DFFF00;
     border-style: none;
     font-size: 15px;
     grid-column: 1 / 2;
@@ -214,7 +214,7 @@ section.grid-item {
   }
 
   .grid-container {
-    background-color: #ffffff;
+    background-color: #DFFF00;
     border-style: none;
     column-gap: 5px;
     display: grid;
@@ -226,7 +226,7 @@ section.grid-item {
   }
 
   body {
-    background-color: #ffffff;
+    background-color: #DFFF00;
     color: #494949;
     font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
@@ -237,26 +237,26 @@ section.grid-item {
   }
 
   blockquote {
-    border-left: 1px solid #ff00ff;
+    border-left: 1px solid #000000;
     font-style: italic;
     margin: 5px;
     padding: 5px;
   }
 
   a:hover {
-    background-color: #ff00ff;
-    color: #ffffff;
+    background-color: #000000;
+    color: #DFFF00;
     margin: 1px;
     padding: 1px;
     text-decoration: none;
   }
 
   a:focus {
-    border: 1px solid #ff00ff;
+    border: 1px solid #000000;
   }
 
   a {
-    color: #ff00ff;
+    color: #000000;
     text-decoration: none;
   }
 
@@ -292,7 +292,7 @@ section.grid-item {
   }
 
   header blockquote {
-    border-left: 1px solid #ff00ff;
+    border-left: 1px solid #000000;
     font-style: italic;
     margin: 5px;
     padding: 5px;
@@ -312,7 +312,7 @@ section.grid-item {
   }
 
   section.grid-item {
-    background-color: #ffffff;
+    background-color: #DFFF00;
     border-style: none;
     grid-column: 1 / 2;
     grid-row: 2 / 3;
@@ -332,22 +332,22 @@ section.grid-item {
   }
 
   .btn {
-    background-color: #ffffff;
-    border: 1px solid #ff00ff;
+    background-color: #DFFF00;
+    border: 1px solid #000000;
     border-radius: 45px;
     margin: 15px;
-    color: #ff00ff;
+    color: #000000;
     padding: 15px;
     text-align: center;
     text-decoration: none;
   }
 
   .btn:hover {
-    background-color: #ff00ff;
-    border: 1px solid #ffffff;
+    background-color: #000000;
+    border: 1px solid #DFFF00;
     border-radius: 45px;
     margin: 15px;
-    color: #ffffff;
+    color: #DFFF00;
     padding: 15px;
     text-align: center;
     text-decoration: none;
@@ -366,7 +366,7 @@ section.grid-item {
   }
 
   footer.grid-item {
-    background-color: #ffffff;
+    background-color: #DFFF00;
     border-style: none;
     font-size: 15px;
     grid-column: 1 / 2;
