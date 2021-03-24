@@ -108,10 +108,12 @@ Das, Ishita.
 Deshpande, Amrut.  
 Gabajiwala, Tasneem.  
 Jain, Deeksha.  
+Jallu, Sawab.  
 Jhalani, Stuti.  
 Kalra, Sukhda.  
 Kaur, Divnoor.  
 Malik, Gazala.  
+Nath, Siddhartha.  
 Patade, Yugandhar.  
 Phodkar, Sairaj.  
 Rathod, Shraddha.  
