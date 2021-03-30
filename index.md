@@ -2,7 +2,7 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Here's how this works**.
 
-**Step 1**. If you fill <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank">this</a> form, we will use your postal address alongwith your name, phone number, and pincode to send you 11 blank postcards to illustrate upon.
+**Step 1**. If you fill <a class="typeform-share link" href="https://form.typeform.com/to/krhWpQJZ?typeform-medium=embed-snippet" data-mode="drawer_right" style="color:#D54321;text-decoration:underline;font-size:20px;" target="_blank">this </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> form, we will use your postal address alongwith your name, phone number, and pincode to send you 11 blank postcards to illustrate upon.
 
 **Note**: Please bear in mind that only your name will be mentioned publicly at the bottom of this page.
 
