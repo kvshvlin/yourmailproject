@@ -10,7 +10,7 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Step 3**. Share work-in-progress images to your Instagram stories and tag our <a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Instagram account @yourmailproject</a>, or make an Instagram post and use hashtag #yourmailproject.
 
-**Step 4**. Mail your illustrated postcards to us as soon as possible via speed post along with your preferred selling price for each.
+**Step 4**. Mail your illustrated postcards to us as soon as possible via speed post.
 
 **Step 5**. Albeit the original author reserves all copyrights, after we receive an illustrator's submission we use Your Mail Project brand assets to curate the project thenceforth.
 
@@ -51,23 +51,23 @@ Making 1 handmade illustrated postcard shop-ready should approximately cost,
 = $ 00.13.  
 **= Cost Price (CP)**.
 
-**Note**: Please bear in mind that the value of Cost Price in USD can vary on a daily basis.
+**Note**: Please bear in mind that the value of the Cost Price (CP) in USD can vary on a daily basis.
 
-We offer subscriptions at the minimum price of $3 per postcard,  
+We offer handmade illustrated postcards on a monthly subscription basis starting from $3 per postcard,  
 **= Subscription Price (SP)**.
 
 **Here's how we pay an illustrator**.
 
-Once a subscriber receives a postcard, we pay the illustrator half of the subscription price on a first priority basis.
+Once a subscriber receives a postcard, we pay the illustrator half of the Subscription Price (SP) on a first priority basis.
 
 (SP / 2)  
 = $ 03.00 / 2  
 = $ 01.50.  
 **= Illustrator's Earnings (IE)**.
 
-**Note**: Please bear in mind that the value of Cost Price in USD can vary on a daily basis.
+**Note**: Please bear in mind that the value of the Cost Price (CP) in USD can vary on a daily basis.
 
-Your Mail Project bears the value of Cost Price.
+Your Mail Project bears the value of the Cost Price (CP).
 
 ([SP / 2] - CP)  
 $ ([03.00 / 2] - $ 00.13)  
