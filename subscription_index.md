@@ -58,8 +58,7 @@ We offer handmade illustrated postcards on a monthly subscription basis starting
 
 **Here's how we pay an illustrator**.
 
-Once a subscriber receives a postcard, we pay the illustrator half of the Subscription Price (SP) on a first priority basis.
-
+Once a subscriber receives a postcard, we pay the illustrator half of the Subscription Price (SP) on a first priority basis,  
 (SP / 2)  
 = $ 03.00 / 2  
 = $ 01.50.  
@@ -67,12 +66,11 @@ Once a subscriber receives a postcard, we pay the illustrator half of the Subscr
 
 **Note**: Please bear in mind that the value of the Cost Price (CP) in USD can vary on a daily basis.
 
-Your Mail Project bears the value of the Cost Price (CP).
-
+Your Mail Project bears the value of the Cost Price (CP),  
 ([SP / 2] - CP)  
 $ ([03.00 / 2] - $ 00.13)  
 = $ 01.50 - $ 00.13  
-= $ 01.37.
+= $ 01.37.  
 **= Your Mail Project's Earnings (YE)**.
 
 **Here's our dear community**.
