@@ -2,7 +2,7 @@ Your Mail Project keeps things simple, thoughtful, and transparent.
 
 **Here's how this works**.
 
-**Step 1**. Press the 'Join Us' button and fill the form inside so we can use your postal address along with your name, phone number, and pin code to send you 11 blank postcards to illustrate upon.
+**Step 1**. Press the '<a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank">Join Us</a>' button and fill the form inside so we can use your postal address along with your name, phone number, and pin code to send you 11 blank postcards to illustrate upon.
 
 **Note**: Please bear in mind that only your name will be mentioned publicly at the bottom of this page.
 
