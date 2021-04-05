@@ -1,7 +1,6 @@
 **Here's our business model**.
 
-We run a business model to create revenue for various illustrators.  
-We are sharing the following information to demystify our business model.
+We run Your Mail Project to create revenue for various illustrators. We are sharing the following information to demystify our business model.
 
 The package of 11 blank postcards costs,  
 = Rs. (05.50 for the blank postcards + 05.00 for the envelope + 41.50 for speed post)  
