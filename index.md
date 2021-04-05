@@ -1,5 +1,4 @@
-Your Mail Project keeps things simple, thoughtful, and transparent  
-and runs a business model to create revenue for various illustrators.
+Your Mail Project keeps things simple, thoughtful, and transparent.
 
 We hope you love what we do.
 
