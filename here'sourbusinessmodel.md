@@ -30,10 +30,7 @@ They should send a note alongwith their handmade illustrated postcards to inform
 <p>
 <a class="btn" href="https://kushalsamant.github.io/yourmailproject/here'showwepayanillustratorforsales.html" rel="noopener noreferrer" target="_blank">Here's how we pay an illustrator for sales</a><br>
 </p>
-
-<div class="roadmap-spacer-2"></div>
-<div class="roadmap-spacer-1"></div>
-
+***
 <p>
 <a class="btn" href="https://kushalsamant.github.io/yourmailproject/here'showwepayanillustratorforsubscriptions.html" rel="noopener noreferrer" target="_blank">Here's how we pay an illustrator for subscriptions</a><br>
 </p>
