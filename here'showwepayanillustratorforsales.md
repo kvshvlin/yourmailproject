@@ -15,7 +15,8 @@ Your Mail Project bears the value of the Cost Price (CP),
 
 **Example**.
 
-If Your Mail Project's Price (YP) = Rs. 110.85; Illustrator's Price (IP) = Rs. 100;  
+If Your Mail Project's Price (YP) = Rs. 110.85;  
+Illustrator's Price (IP) = Rs. 100;
 
 Illustrator's Earnings (IE),  
 = Rs. (IP)  
@@ -24,7 +25,7 @@ Illustrator's Earnings (IE),
 Your Mail Project's Earnings (YE),
 = Rs. [(YP - IP) - CP]  
 = Rs. [(110.85 - 100.00) - 09.85]  
-= Rs. [10.85 - 09.85]
+= Rs. [10.85 - 09.85]  
 = Rs. 01.00.
 
 If there’s something you don’t see here that you’d like to know then get in touch <a href="https://kushalsamant.github.io/getintouch.html" rel="noopener noreferrer" target="_blank">here</a>.
