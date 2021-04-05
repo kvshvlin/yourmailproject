@@ -29,7 +29,7 @@ All unsold handmade illustrated postcards will be returned to the original illus
 </p>
 
 <div class="roadmap-spacer-2"></div>
-OR
+***
 <div class="roadmap-spacer-1"></div>
 
 <p>
