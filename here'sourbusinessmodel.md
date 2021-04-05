@@ -21,9 +21,9 @@ Making 1 handmade illustrated postcard shop-ready should approximately cost,
 = Rs. 09.85.  
 **= Cost Price (CP)**.
 
-Illustrators have to use their own materials to create the illustrations. We cannot be sure of certain values (including but not limited to) the cost of labour, cost of materials, expected profit, PLUS any particulars deemed necessary. Hence, we request all illustrators to calculate their selling price for every blank postcard they illustrate. They should send a note alongwith their handmade illustrated postcards to inform us about their **Illustrator's Price (IP)**.
+Illustrators have to use their own materials to create the illustrations. We cannot be sure of certain values (including but not limited to) the cost of labour, cost of materials, expected profit, PLUS any particulars deemed necessary. Hence, we request all illustrators to calculate their selling price for every blank postcard they illustrate.
 
-Once a sale happens, we pay an illustrator on a first priority basis.
+They should send a note alongwith their handmade illustrated postcards to inform us about their **Illustrator's Price (IP)**. Once a sale happens, we pay an illustrator on a first priority basis.
 
 <div class="roadmap-spacer-1"></div>
 
