@@ -25,15 +25,7 @@ All unsold handmade illustrated postcards will be returned to the original illus
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://www.gumroad.com/yourmailproject" rel="noopener noreferrer" target="_blank">Come shop with us!</a><br>
-</p>
-
-<div class="roadmap-spacer-2"></div>
-***
-<div class="roadmap-spacer-1"></div>
-
-<p>
-<a class="btn" href="https://www.buymeacoffee.com/yourmailproject" rel="noopener noreferrer" target="_blank">Come subscribe to us!</a><br>
+<a class="btn" href="https://www.gumroad.com/yourmailproject" rel="noopener noreferrer" target="_blank">Shop!</a>|<a class="btn" href="https://www.buymeacoffee.com/yourmailproject" rel="noopener noreferrer" target="_blank">Subscribe!</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
