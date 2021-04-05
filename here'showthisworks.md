@@ -17,8 +17,9 @@
 **Step 7**. Once a sale happens, we pay the illustrator his/her Illustrator's Price (IP).
 
 **Step 8**. Every handmade illustrated postcard is available for sale without the guarantee that it will sell.
-- All payouts to illustrators are only valid after their handmade illustrated postcards sell.  
-- All unsold handmade illustrated postcards will be returned to the original illustrator on demand.
+
+- A payout to an illustrator is due only after his/her handmade illustrated postcard is sold.  
+- An unsold handmade illustrated postcard shall be returned to the original illustrator if he/she demands.
 
 **Step 9**. We do not accept returns orders. We handle complaints, inventory, operations, packaging, shipping, suggestions, and more.
 
