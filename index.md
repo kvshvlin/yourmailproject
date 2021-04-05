@@ -1,6 +1,5 @@
-Your Mail Project keeps things simple, thoughtful, and transparent.
-
-If there’s something you don’t see here that you’d like to know then get in touch <a href="https://kushalsamant.github.io/getintouch.html" rel="noopener noreferrer" target="_blank">here</a>.
+Your Mail Project keeps things simple, thoughtful, and transparent  
+and runs a business model to create revenue for various illustrators.
 
 We hope you love what we do.
 
