@@ -28,11 +28,11 @@ They should send a note alongwith their handmade illustrated postcards to inform
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://kushalsamant.github.io/yourmailproject/here'showwepayanillustratorforsales.html" rel="noopener noreferrer" target="_blank">Here's how we pay an illustrator for sales</a><br>
+<a class="btn" href="https://kushalsamant.github.io/yourmailproject/here'showwepayanillustratorforsales.html" rel="noopener noreferrer" target="_blank">Sales</a><br>
 </p>
 ***
 <p>
-<a class="btn" href="https://kushalsamant.github.io/yourmailproject/here'showwepayanillustratorforsubscriptions.html" rel="noopener noreferrer" target="_blank">Here's how we pay an illustrator for subscriptions</a><br>
+<a class="btn" href="https://kushalsamant.github.io/yourmailproject/here'showwepayanillustratorforsubscriptions.html" rel="noopener noreferrer" target="_blank">Subscriptions</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
