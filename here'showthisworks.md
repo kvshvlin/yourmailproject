@@ -26,13 +26,13 @@
 <div class="roadmap-spacer-1"></div>
 
 <a class="btn" href="https://www.gumroad.com/yourmailproject" rel="noopener noreferrer" target="_blank">Shop!</a>|<a class="btn" href="https://www.buymeacoffee.com/yourmailproject" rel="noopener noreferrer" target="_blank">Subscribe!</a><br>
-</p>
 
 <div class="roadmap-spacer-2"></div>
 <div class="roadmap-spacer-1"></div>
 
 <p>
 <a class="btn" href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Merch!</a><br>
+</p>
 
 <div class="roadmap-spacer-2"></div>
 
