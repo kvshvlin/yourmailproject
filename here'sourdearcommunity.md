@@ -34,8 +34,10 @@ Suryawanshi, Pranali.
 Tandon, Shivani.  
 Thakkar, Niyati.
 
-We hope you love what we do.
+Sometimes, we make designs for merchandising. Our merchandise is managed by a dropshipping company called Society6. You can buy our merchandise to help us sustain ourselves.
 
+We hope you love what we do.
+ 
 <div class="roadmap-spacer-1"></div>
 
 <p>
