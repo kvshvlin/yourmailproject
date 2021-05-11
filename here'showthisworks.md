@@ -21,12 +21,13 @@
 - A payout to an illustrator is due only after his/her handmade illustrated postcard is sold.  
 - An unsold handmade illustrated postcard shall be returned to the original illustrator if he/she demands.
 
-**Step 9**. We do not accept returns orders. We handle complaints, inventory, operations, packaging, shipping, suggestions, and more.
+**Step 9**. We handle complaints, inventory, operations, packaging, shipping, suggestions, and more.  
+We do not accept returns orders.
 
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://www.gumroad.com/yourmailproject" rel="noopener noreferrer" target="_blank">Shop!</a>|<a class="btn" href="https://www.buymeacoffee.com/yourmailproject" rel="noopener noreferrer" target="_blank">Subscribe!</a><br>
+<a class="btn" href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Shop!</a>|<a class="btn" href="https://www.buymeacoffee.com/yourmailproject" rel="noopener noreferrer" target="_blank">Subscribe!</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
