@@ -15,7 +15,9 @@ Jallu, Sawab.
 Jhalani, Stuti.  
 Kalra, Sukhda.  
 Kaur, Divnoor.  
+Mahajan, Ishika.  
 Malik, Gazala.  
+Mohanraj, Keerthika.  
 Nath, Siddhartha.  
 Patade, Yugandhar.  
 Phodkar, Sairaj.  
@@ -30,9 +32,12 @@ Satish, Dhanya.
 Shah, Avani.  
 Sharma, Shivani.  
 Shivaraj, Hemanth.  
+Sukesh, Sonali.  
 Suryawanshi, Pranali.  
+Talakad, Aishwarya Lakshmi.  
 Tandon, Shivani.  
-Thakkar, Niyati.
+Thakkar, Niyati.  
+Yadav, Chandrakala.
 
 We hope you love what we do.
 
