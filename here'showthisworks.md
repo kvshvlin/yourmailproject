@@ -27,7 +27,29 @@ We do not accept returns orders.
 <div class="roadmap-spacer-1"></div>
 
 <p>
-<a class="btn" href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Shop!</a>|<a class="btn" href="https://www.buymeacoffee.com/yourmailproject" rel="noopener noreferrer" target="_blank">Subscribe!</a><br>
+<a class="btn" href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank">Shop!</a>|<a class="btn" href="https://www.buymeacoffee.com/yourmailproject" rel="noopener noreferrer" target="_blank">Subscribe.</a><br>
+</p>
+
+<div class="roadmap-spacer-2"></div>
+
+**Postcards by KUZYA!**.
+
+**Step 1**. We scan architectural postcards by <a href="https://kushalsamant.github.io" rel="noopener noreferrer" target="_blank">KUZYA!</a>.
+
+**Step 2**. We collate these scans to publish issues of our monthly architectural magazine.
+
+**Step 3**. You can download any issue from our <a href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad account @yourmailproject</a>.
+
+**Step 4**. You can contribute to a pay-what-you-want price starting from Rs. 75.00 [because Gumroad doesn't let us give it away for free].
+
+**Step 5**. We submit these scans to Society6 for merchandising.
+
+**Step 6**. You can get our decor on our <a href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6 account @yourmailproject</a>.
+
+<div class="roadmap-spacer-1"></div>
+
+<p>
+<a class="btn" href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Download.</a>|<a class="btn" href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Merch!</a><br>
 </p>
 
 <div class="roadmap-spacer-2"></div>
