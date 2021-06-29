@@ -32,19 +32,19 @@ We do not accept returns orders.
 
 <div class="roadmap-spacer-2"></div>
 
-**Postcards by KUZYA!**.
+**Postcards by KUZYA!**
 
-**Step 1**. We scan architectural postcards by <a href="https://kushalsamant.github.io" rel="noopener noreferrer" target="_blank">KUZYA!</a>.
+**Step 1**. We scan architectural postcards by <a href="https://kushalsamant.github.io" rel="noopener noreferrer" target="_blank">KUZYA!</a>
 
-**Step 2**. We collate these scans to publish issues of our monthly architectural magazine.
+**Step 2**. We collate these scans to create issues of our monthly architectural magazine.
 
-**Step 3**. You can download any issue from our <a href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad account @yourmailproject</a>.
+**Note**: Please bear in mind that we publish our monthly architectural magazine on Gumroad because it works everywhere. Although Gumroad works everywhere, it has a minimum charge of USD 01.00 i.e., it doesn't let us giveaway stuff for free.
 
-**Step 4**. You can contribute to a pay-what-you-want price starting from Rs. 75.00 [because Gumroad doesn't let us give it away for free].
+**Step 3**. You can download any issue from our <a href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad account @yourmailproject</a> at a pay-what-you-want price starting from Rs. 75.00.
 
-**Step 5**. We submit these scans to Society6 for merchandising.
+**Step 4**. We submit these scans to Society6 for merchandising apparel & bags, bed & bath, face masks, furniture, home decor, office, outdoor & lifestyle, tabletop, tech, wall art, &c.
 
-**Step 6**. You can get our decor on our <a href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6 account @yourmailproject</a>.
+**Step 5**. You can shop our merch on our <a href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6 account @yourmailproject</a>.
 
 <div class="roadmap-spacer-1"></div>
 
