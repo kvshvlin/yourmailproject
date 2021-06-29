@@ -38,7 +38,7 @@ We do not accept returns orders.
 
 **Step 2**. We collate these scans to create issues of our monthly architectural magazine.
 
-**Note**: Please bear in mind that we publish our monthly architectural magazine on Gumroad because it works everywhere. Although Gumroad works everywhere, it has a minimum charge of USD 01.00 i.e., it doesn't let us giveaway stuff for free.
+**Note**: Please bear in mind that we publish our monthly architectural magazine on Gumroad because it works everywhere. Although Gumroad works everywhere, it has a minimum charge of USD&nbsp;01.00 i.e., it doesn't let us giveaway stuff for free.
 
 **Step 3**. You can download any issue from our <a href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad account @yourmailproject</a> at a pay-what-you-want price starting from Rs.&nbsp;75.00.
 
