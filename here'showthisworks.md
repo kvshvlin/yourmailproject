@@ -40,7 +40,7 @@ We do not accept returns orders.
 
 **Note**: Please bear in mind that we publish our monthly architectural magazine on Gumroad because it works everywhere. Although Gumroad works everywhere, it has a minimum charge of USD 01.00 i.e., it doesn't let us giveaway stuff for free.
 
-**Step 3**. You can download any issue from our <a href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad account @yourmailproject</a> at a pay-what-you-want price starting from Rs. 75.00.
+**Step 3**. You can download any issue from our <a href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad account @yourmailproject</a> at a pay-what-you-want price starting from Rs.&nbsp;75.00.
 
 **Step 4**. We submit these scans to Society6 for merchandising apparel & bags, bed & bath, face masks, furniture, home decor, office, outdoor & lifestyle, tabletop, tech, wall art, &c.
 
