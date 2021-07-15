@@ -31,6 +31,11 @@ We do not accept returns orders.
 </p>
 
 <div class="roadmap-spacer-2"></div>
+
+We create architectural designs every month for merchandising apparel & bags, bed & bath, face masks, furniture, home decor, office, outdoor & lifestyle, tabletop, tech, wall art, &c. You can shop this merch on our <a href="https://www.society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6 account @yourmailproject</a>.
+
+We curate architectural designs every month to create issues for our architectural magazine. You can download any issue of our architectural magazine from our <a href="https://www.gum.co/yourmailproject" rel="noopener noreferrer" target="_blank">Gumroad account @yourmailproject</a> at a pay-what-you-want price starting from Rs.&nbsp;75.00.
+
 <div class="roadmap-spacer-1"></div>
 
 <p>
